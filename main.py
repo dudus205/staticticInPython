@@ -37,11 +37,20 @@ def workers(iterations):
 def steps(iterations):
     steps = {}
     for i in range(iterations):
-        steps[id(fake.random_int())] = {np.random.gamma(2, 2, 1)[0],
-                                        np.random.normal(2, 2, 1)[0],
-                                        np.random.exponential(2, 1)[0]
-                                        }
+        # steps[id(fake.random_int())] = {np.random.gamma(2, 2, 1)[0],
+        steps[i] = {id(fake.random_int()): [np.random.gamma(2, 2, 1)[0],
+                                            np.random.normal(2, 2, 1)[0],
+                                            np.random.exponential(2, 1)[0]
+                                            ]}
     return steps
+
+
+def itemList(worker, part):
+    items = []
+    for i in part:
+        print(part[i][int(str(part[i].keys())[11:24])][0]) #show row
+        print(part[i][int(str(part[i].keys())[11:24])][1]) #show row
+        print(part[i][int(str(part[i].keys())[11:24])][2]) #show row
 
 
 # Press the green button in the gutter to run the script.
@@ -49,5 +58,7 @@ if __name__ == '__main__':
     company = workers(5000)
     print(company)
 
-    parts = steps(2)
+    parts = steps(100)
     print(parts)
+
+    itemList(company, parts)

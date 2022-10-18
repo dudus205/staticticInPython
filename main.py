@@ -1,5 +1,6 @@
 from faker import Faker
 import pandas as pd
+import numpy as np
 
 fake = Faker(['it_IT'])
 
@@ -23,17 +24,30 @@ def workers(iterations):
             part_time = part_time - 1
 
         workers_dictionary.append([fake.random_int() * fake.random_int(1, 5),
-                                  fake.name(),
-                                  groups[fake.random_int(0, 4)],
-                                  fake.date(),  # date default is -30 years
-                                  work_type
-        ])
+                                   fake.name(),
+                                   groups[fake.random_int(0, 4)],
+                                   fake.date(),  # date default is -30 years
+                                   work_type
+                                   ])
 
     workers_df = pd.DataFrame(workers_dictionary)
     return workers_df
+
+
+def steps(iterations):
+    steps = {}
+    for i in range(iterations):
+        steps[id(fake.random_int())] = {np.random.gamma(2, 2, 1)[0],
+                                        np.random.normal(2, 2, 1)[0],
+                                        np.random.exponential(2, 1)[0]
+                                        }
+    return steps
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     company = workers(5000)
     print(company)
+
+    parts = steps(2)
+    print(parts)

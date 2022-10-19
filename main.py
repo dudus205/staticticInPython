@@ -34,7 +34,7 @@ def workers(iterations):
     return workers_df
 
 
-def steps(iterations):
+def parts(iterations):
     steps = {}
     for i in range(iterations):
         # steps[id(fake.random_int())] = {np.random.gamma(2, 2, 1)[0],
@@ -45,20 +45,35 @@ def steps(iterations):
     return steps
 
 
-def itemList(worker, part):
+def item_list(iterations, worker, part):
     items = []
-    for i in part:
-        print(part[i][int(str(part[i].keys())[11:24])][0]) #show row
-        print(part[i][int(str(part[i].keys())[11:24])][1]) #show row
-        print(part[i][int(str(part[i].keys())[11:24])][2]) #show row
+
+    for i in range(iterations):
+        index_item = fake.random_int(0, len(part) - 1)
+        index_worker = fake.random_int(0, len(worker) - 1)
+        if worker[4][index_worker] == "Full time":
+            amount = fake.random_int(500, 1000)
+        elif worker[4][index_worker] == "Half time":
+            amount = fake.random_int(100, 500)
+        else:
+            amount = fake.random_int(1, 1000)
+
+        items.append([
+            str(part[index_item].keys())[11:24],
+            amount
+        ])
+
+    amount_df = pd.DataFrame(items)
+    return amount_df
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     company = workers(5000)
-    print(company)
+    # print(company)
 
-    parts = steps(100)
-    print(parts)
+    parts = parts(100)
+    # print(parts)
 
-    itemList(company, parts)
+    itemProduction = item_list(100, company, parts)
+    # print(item_list)

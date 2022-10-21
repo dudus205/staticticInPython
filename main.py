@@ -48,17 +48,17 @@ def parts(iterations):
 def item_list(worker, part):
     items = []
 
-    for index_item in part:
-        # index_item = fake.random_int(0, len(part) - 1)
-        index_worker = fake.random_int(0, len(worker) - 1)
-
+    for index_worker in range(len(worker)):
+        # index_worker = fake.random_int(0, len(worker) - 1)
+        index_item = 1
         if worker[4][index_worker] == "Full time":
             amount = fake.random_int(500, 1000)
         elif worker[4][index_worker] == "Half time":
             amount = fake.random_int(100, 500)
         else:
             amount = fake.random_int(1, 1000)
-        for _ in range(amount):
+        # index_item = 1
+        for index_item in range(amount):
             items.append([
                 str(part[index_item].keys())[11:24] + " - " + str(index_worker),
                 part[index_item][int(str(part[index_item].keys())[11:24])][0],
@@ -66,6 +66,8 @@ def item_list(worker, part):
                 part[index_item][int(str(part[index_item].keys())[11:24])][2],
                 index_worker
             ])
+            if index_item >= len(part) - 1:
+                break
 
     amount_df = pd.DataFrame(items)
     print(amount_df)
@@ -74,10 +76,10 @@ def item_list(worker, part):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    company = workers(5000)
+    company = workers(1000)
     # print(company)
 
-    parts = parts(100)
+    parts = parts(400)
     # print(parts)
 
     itemProduction = item_list(company, parts)

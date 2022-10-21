@@ -70,17 +70,19 @@ def item_list(worker, part):
                 break
 
     amount_df = pd.DataFrame(items)
-    print(amount_df)
+    # print(amount_df)
     return amount_df
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    company = workers(1000)
+    company = workers(100)
     # print(company)
 
-    parts = parts(400)
+    parts = parts(1000)
     # print(parts)
 
     itemProduction = item_list(company, parts)
     # print(item_list)
+    company.to_csv("company.csv")
+    itemProduction.to_csv("itemProduction.csv")

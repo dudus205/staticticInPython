@@ -84,5 +84,13 @@ if __name__ == '__main__':
 
     itemProduction = item_list(company, parts)
     # print(item_list)
-    company.to_csv("company.csv")
-    itemProduction.to_csv("itemProduction.csv")
+    company.to_csv("workers.csv")
+    itemProduction.to_csv("widgets.csv")
+
+    #etap IV
+    print(company.head())
+    print(company.nunique())
+    print(company.isnull())
+    print(company.describe())
+    print(company.info())
+

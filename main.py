@@ -74,6 +74,15 @@ def item_list(worker, part):
     return amount_df
 
 
+def parameters_of_data(data_set):
+    # etap IV
+    print(data_set.head())
+    print(data_set.nunique())
+    print(data_set.isnull())
+    print(data_set.describe())
+    print(data_set.info())
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     company = workers(100)
@@ -87,10 +96,4 @@ if __name__ == '__main__':
     company.to_csv("workers.csv")
     itemProduction.to_csv("widgets.csv")
 
-    #etap IV
-    print(company.head())
-    print(company.nunique())
-    print(company.isnull())
-    print(company.describe())
-    print(company.info())
-
+    parameters_of_data(company)

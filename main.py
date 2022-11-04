@@ -85,15 +85,17 @@ def parameters_of_data(data_set):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    company = workers(100)
+    # company = workers(100)
     # print(company)
 
-    parts = parts(1000)
+    # parts = parts(1000)
     # print(parts)
 
-    itemProduction = item_list(company, parts)
+    # itemProduction = item_list(company, parts)
     # print(item_list)
-    company.to_csv("workers.csv")
-    itemProduction.to_csv("widgets.csv")
+    # company.to_csv("workers.csv")
+    # itemProduction.to_csv("widgets.csv")
+    workers = pd.read_csv("workers.csv")
+    widgets = pd.read_csv("widgets.csv")
 
-    parameters_of_data(company)
+    parameters_of_data(workers)

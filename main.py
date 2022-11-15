@@ -31,7 +31,8 @@ def workers(iterations):
                                    work_type
                                    ])
 
-    workers_df = pd.DataFrame(workers_dictionary)
+    workers_df = pd.DataFrame(workers_dictionary,
+                              columns=['id', 'name', 'team', 'date_of_employment', 'employment_type'])
     return workers_df
 
 
@@ -52,9 +53,9 @@ def item_list(worker, part):
     for index_worker in range(len(worker)):
         # index_worker = fake.random_int(0, len(worker) - 1)
         index_item = 1
-        if worker[4][index_worker] == "Full time":
+        if worker['employment_type'][index_worker] == "Full time":
             amount = fake.random_int(500, 1000)
-        elif worker[4][index_worker] == "Half time":
+        elif worker['employment_type'][index_worker] == "Half time":
             amount = fake.random_int(100, 500)
         else:
             amount = fake.random_int(1, 1000)
@@ -70,7 +71,7 @@ def item_list(worker, part):
             if index_item >= len(part) - 1:
                 break
 
-    amount_df = pd.DataFrame(items)
+    amount_df = pd.DataFrame(items, columns=['item_number', 'step_1', 'step_2', 'step_3', 'employee_id'])
     # print(amount_df)
     return amount_df
 
@@ -86,19 +87,19 @@ def parameters_of_data(data_set):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    # company = workers(1000)
+    company = workers(1000)
     # print(company)
 
-    # parts = parts(1000)
+    parts = parts(1000)
     # print(parts)
 
-    # itemProduction = item_list(company, parts)
-    # print(item_list)
+    itemProduction = item_list(company, parts)
+    print(item_list)
 
     # company.to_csv("workers.csv")
-    # itemProduction.to_csv("widgets.csv")
+    itemProduction.to_csv("widgets.csv")
 
-    workers = pd.read_csv("workers.csv")
-    widgets = pd.read_csv("widgets.csv")
+    # workers = pd.read_csv("workers.csv")
+    # widgets = pd.read_csv("widgets.csv")
 
-    parameters_of_data(workers)
+    # parameters_of_data(workers)

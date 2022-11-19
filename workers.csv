@@ -1,1001 +1,1001 @@
 ,id,name,team,date_of_employment,employment_type
-0,15404,Gilberto Riccati,MediumSlateBlue,1998-02-11,Full time
-1,39372,Telemaco Bellocchio,Linen,1980-02-26,Full time
-2,4060,Ansaldo Magrassi-Baracca,DarkRed,1975-11-17,Full time
-3,1440,Dott. Federica Murialdo,Linen,2009-10-13,Full time
-4,2908,Valentina Romano,Orange,2008-09-10,Full time
-5,18200,Milena Cappelli,Orange,1979-06-20,Full time
-6,12180,Gilberto Vendetti,LightPink,1998-03-31,Full time
-7,16,Lucia Catalano,LightPink,1970-02-16,Full time
-8,3108,Mirko Matteotti,LightPink,1994-01-22,Full time
-9,13298,Sig. Gianni Ramazzotti,Linen,2010-08-05,Full time
-10,36080,Dolores Tassoni,LightPink,1985-07-24,Full time
-11,17516,Giulietta Zaccardo,MediumSlateBlue,1975-09-27,Full time
-12,9038,Sabatino Cuomo,Linen,1991-01-29,Full time
-13,8634,Romolo Barbarigo,Orange,1978-09-23,Full time
-14,44610,Melina Leone,MediumSlateBlue,1973-06-13,Full time
-15,34508,Leone Sauli-Tamburi,Linen,1993-07-31,Full time
-16,11908,Teresa Maglio,DarkRed,2017-07-24,Full time
-17,4614,Lucio Gozzano-Caetani,MediumSlateBlue,2006-09-07,Full time
-18,35435,Gionata Busoni,Orange,1977-01-17,Full time
-19,5043,Giorgio Pisani-Castioni,MediumSlateBlue,2011-04-14,Full time
-20,4940,Livia Raurica,LightPink,1996-11-02,Full time
-21,3560,Carlo Bernardi,DarkRed,1977-02-25,Full time
-22,40050,Dott. Carlo Marinetti,DarkRed,1976-12-15,Full time
-23,7388,Rita Mozart,Orange,2002-03-24,Full time
-24,138,Angelina Legnante,DarkRed,1976-05-12,Full time
-25,5216,Leone Borroni,Linen,1976-02-26,Full time
-26,21620,Marta Tonisto,DarkRed,2000-01-09,Full time
-27,6392,Mattia Gremese,LightPink,1999-08-01,Full time
-28,8705,Giustino Mancini-Casale,MediumSlateBlue,2021-01-15,Full time
-29,10792,Cirillo Bramante,MediumSlateBlue,1974-09-03,Full time
-30,40285,Carla Polizzi-Sagnelli,LightPink,2009-06-02,Full time
-31,34375,Amadeo Bertolucci,MediumSlateBlue,2000-01-27,Full time
-32,6484,Rosalia Jacuzzi,DarkRed,1979-06-14,Full time
-33,16473,Adamo Chinnici-Bruno,LightPink,1975-06-01,Full time
-34,17930,Luciana Pizzetti,Linen,1975-09-08,Full time
-35,17116,Sonia Scarpetta,DarkRed,2000-07-09,Full time
-36,17096,Giampaolo Lancisi,Linen,2009-04-25,Full time
-37,10100,Gianfrancesco Perozzo,LightPink,2002-02-25,Full time
-38,22156,Pierina Montanari,DarkRed,1984-08-24,Full time
-39,29880,Patrizio Tornatore,MediumSlateBlue,1977-07-23,Full time
-40,792,Dott. Franco Pistoletto,LightPink,2014-04-16,Full time
-41,9751,Evangelista Cagnotto,MediumSlateBlue,1979-04-09,Full time
-42,3800,Dott. Giulio Palazzo,MediumSlateBlue,1990-09-17,Full time
-43,6290,Pietro Pergolesi,MediumSlateBlue,2013-04-04,Full time
-44,4114,Sole Giannone,Orange,2013-02-15,Full time
-45,1904,Alessia Canevascini,MediumSlateBlue,1975-02-05,Full time
-46,13208,Ludovica Ludovisi,MediumSlateBlue,2013-09-10,Full time
-47,7121,Dott. Ruggiero Muti,LightPink,1973-02-28,Full time
-48,1824,Sig. Ermes Asprucci,Linen,1991-01-29,Full time
-49,13728,Saverio Bettoni,Linen,2019-03-29,Full time
-50,4446,Dott. Ferdinando Giannotti,Linen,2015-10-31,Full time
-51,7728,Danilo Mazzini,LightPink,1999-07-18,Full time
-52,4671,Gemma Ferragni,MediumSlateBlue,2004-08-27,Full time
-53,19780,Dott. Serena Togliatti,MediumSlateBlue,1992-10-13,Full time
-54,11298,Jolanda Guidone,LightPink,1999-11-26,Full time
-55,3724,Nicola Asmundo,Linen,2004-01-10,Full time
-56,9654,Rembrandt Bassi-Condoleo,MediumSlateBlue,1980-12-13,Full time
-57,111,Dario Gregorio,LightPink,2016-03-20,Full time
-58,2007,Antonia Cicala,MediumSlateBlue,2008-01-27,Full time
-59,26896,Valerio Bertolucci,LightPink,2015-12-21,Full time
-60,15016,Giorgio Marcacci,LightPink,2020-06-13,Full time
-61,4302,Luchino Ciani,LightPink,2020-01-16,Full time
-62,10025,Olga Iadanza,MediumSlateBlue,2011-12-21,Full time
-63,4620,Romina Pulci,DarkRed,2007-11-17,Full time
-64,39945,Temistocle Rossetti-Fuseli,LightPink,1975-11-17,Full time
-65,13774,Ornella Moretti,Orange,2010-03-22,Full time
-66,10844,Alessio Caironi,DarkRed,2005-05-21,Full time
-67,22575,Giacomo Ruberto,LightPink,1973-09-02,Full time
-68,18927,Massimo Borgia-Gucci,Orange,1976-05-13,Full time
-69,17310,Dott. Cristina Scamarcio,Linen,2016-12-01,Full time
-70,4535,Morena Farina,MediumSlateBlue,1994-07-21,Full time
-71,21260,Benito Serao,DarkRed,2002-06-30,Full time
-72,16536,Elvira Longhena,Orange,1982-08-08,Full time
-73,28140,Dott. Gian Romagnoli,Orange,2016-08-23,Full time
-74,10196,Federica Bellocchio,Orange,1977-03-08,Full time
-75,28112,Benvenuto Cundari-Capone,DarkRed,2017-08-15,Full time
-76,3725,Allegra Spadafora-Pagnotto,Linen,1972-04-16,Full time
-77,8666,Sig.ra Angelica Saracino,Orange,2020-02-17,Full time
-78,54,Serafina Perozzo,Linen,1971-09-06,Full time
-79,6934,Camilla Tropea,Linen,1972-09-09,Full time
-80,24135,Pier Combi,MediumSlateBlue,1982-01-22,Full time
-81,8322,Griselda Nadi,Linen,1981-05-06,Full time
-82,2456,Mirco Fermi-Sobrero,MediumSlateBlue,1977-06-18,Full time
-83,12010,Raffaella Opizzi,DarkRed,2006-04-03,Full time
-84,13332,Romina Bassi-Bernardini,DarkRed,1984-10-19,Full time
-85,26160,Sig. Beppe Mogherini,LightPink,1993-03-06,Full time
-86,28792,Claudia Turchi,DarkRed,2016-09-17,Full time
-87,37084,Sig. Lodovico Napolitano,Orange,1998-06-23,Full time
-88,7442,Sig. Nico Armani,Linen,2013-03-13,Full time
-89,26628,Adriano Liguori,MediumSlateBlue,2012-05-08,Full time
-90,7347,Michelangelo Blasi,Orange,2005-08-14,Full time
-91,12114,Pina Chiaramonte,LightPink,2016-12-03,Full time
-92,10252,Martina Borghese,Orange,1990-05-29,Full time
-93,8800,Dott. Pellegrino Schicchi,DarkRed,2019-08-21,Full time
-94,2019,Susanna Viviani,Orange,1993-04-02,Full time
-95,19675,Lidia Gioberti,Orange,1972-04-29,Full time
-96,6660,Lauretta Cilea,LightPink,2005-08-25,Full time
-97,39965,Sig.ra Elvira Morgagni,Linen,1990-05-08,Full time
-98,4251,Mercedes Sismondi-Mazzacurati,Linen,1988-02-26,Full time
-99,16956,Loretta Renzi,DarkRed,1972-07-03,Full time
-100,5184,Stella Gozzano,LightPink,1976-11-14,Full time
-101,15092,Emilio Pagnotto-Mezzetta,Orange,1978-06-19,Full time
-102,7587,Lauretta Perini,LightPink,1978-08-09,Full time
-103,10668,Sig.ra Imelda Golgi,Linen,1979-12-17,Full time
-104,6120,Tonino Castiglione,MediumSlateBlue,2017-10-26,Full time
-105,2387,Coriolano Leopardi,LightPink,1997-06-07,Full time
-106,4450,Tina Agazzi,LightPink,1975-02-09,Full time
-107,47415,Gianfrancesco Rensi,DarkRed,1979-10-14,Full time
-108,546,Mirko Fiorucci-Tron,Orange,1991-10-11,Full time
-109,9596,Renata Tolentino,Linen,1988-04-29,Full time
-110,24102,Diana Cavanna,LightPink,1974-02-20,Full time
-111,8918,Gilberto Frescobaldi,Orange,1990-08-22,Full time
-112,3112,Dina Bignardi,DarkRed,2015-02-09,Full time
-113,18525,Filippa Serlupi,DarkRed,2008-07-31,Full time
-114,2862,Arnulfo Zacchia,Orange,2012-01-09,Full time
-115,17808,Romina Maccanelli,MediumSlateBlue,1995-04-25,Full time
-116,25668,Giada Nolcini,LightPink,1983-06-07,Full time
-117,38415,Donatello Comboni,Orange,2020-07-03,Full time
-118,8358,Sig.ra Antonella Mercalli,MediumSlateBlue,2001-06-27,Full time
-119,19884,Piermaria Aporti,LightPink,2009-04-13,Full time
-120,8920,Sig.ra Donna Antonioni,LightPink,1995-12-21,Full time
-121,7600,Dott. Ippazio Chindamo,Linen,2003-05-04,Full time
-122,27240,Lilla Cappelli,Linen,2021-11-21,Full time
-123,14300,Antonello Tarantini,Orange,1985-08-24,Full time
-124,11673,Luigi Liguori,Linen,2008-09-26,Full time
-125,270,Dott. Zaira Baracca,DarkRed,1982-08-19,Full time
-126,29640,Maria Bignami,Orange,2002-02-23,Full time
-127,3380,Giacobbe Treves,Orange,2008-12-31,Full time
-128,8500,Gianpaolo Turati,LightPink,2006-02-19,Full time
-129,49360,Dott. Gianna Volta,DarkRed,1985-08-26,Full time
-130,3935,Sig.ra Maura Pavarotti,Orange,1978-03-22,Full time
-131,33268,Loretta Fuseli,DarkRed,1980-09-15,Full time
-132,41450,Leone Costanzi,DarkRed,2004-09-27,Full time
-133,6168,Federigo Babati-Gibilisco,Orange,2003-09-29,Full time
-134,25026,Maria Parmitano,MediumSlateBlue,1982-03-23,Full time
-135,8096,Sig.ra Victoria Interiano,MediumSlateBlue,1985-10-18,Full time
-136,28419,Sig.ra Elisa Guidotti,DarkRed,1983-01-30,Full time
-137,6408,Lucrezia Sbarbaro,MediumSlateBlue,1976-10-29,Full time
-138,47505,Concetta Morricone,Linen,2017-10-05,Full time
-139,4743,Sig.ra Lolita Lovato,MediumSlateBlue,1991-06-26,Full time
-140,36548,Priscilla Moresi,MediumSlateBlue,1989-06-16,Full time
-141,2698,Giulio Calvo,LightPink,1970-12-17,Full time
-142,7357,Fausto Pagliaro,LightPink,1998-02-13,Full time
-143,5638,Alessia Giusti,MediumSlateBlue,2001-08-27,Full time
-144,18870,Sylvia Pagnotto,DarkRed,1975-06-13,Full time
-145,576,Gianfrancesco Nitti,DarkRed,1976-08-20,Full time
-146,3357,Arnulfo Saracino,LightPink,2006-05-24,Full time
-147,2955,Isa Volta,Linen,1973-05-28,Full time
-148,40515,Sig. Fiorenzo Sorrentino,Orange,1999-11-19,Full time
-149,5723,Morena Respighi-Trevisan,LightPink,2012-02-10,Full time
-150,5437,Fiamma Altera,LightPink,1984-06-05,Full time
-151,4816,Nedda Simeoni,LightPink,1973-07-31,Full time
-152,4034,Monica Gullotta,Orange,2000-11-12,Full time
-153,24147,Raimondo Contarini,MediumSlateBlue,1996-10-22,Full time
-154,14624,Susanna Odescalchi-Salandra,MediumSlateBlue,2019-01-14,Full time
-155,11968,Zaira Bajamonti-Totino,Linen,1986-11-26,Full time
-156,15678,Antonella Lamborghini,LightPink,1980-06-01,Full time
-157,2705,Giada Procacci,DarkRed,1988-09-17,Full time
-158,47810,Pierluigi Agazzi-Armellini,MediumSlateBlue,1999-08-04,Full time
-159,21655,Elvira Gioberti-Scaduto,Linen,1974-02-03,Full time
-160,16647,Amleto Venier,Linen,2019-06-03,Full time
-161,5704,Arnaldo Puccini,Orange,2010-10-18,Full time
-162,26964,Sonia Zanzi,MediumSlateBlue,2011-05-29,Full time
-163,9115,Amico Nitti,Linen,2013-10-24,Full time
-164,6194,Gabriella Tomasini,DarkRed,2010-02-11,Full time
-165,2342,Caterina Agazzi,MediumSlateBlue,1997-11-18,Full time
-166,11980,Dott. Giorgia Napolitano,DarkRed,1970-09-18,Full time
-167,12260,Francesco Salvemini,DarkRed,1996-11-08,Full time
-168,8924,Dott. Agnolo Bongiorno,LightPink,1976-07-09,Full time
-169,7841,Lilla Gremese,LightPink,1990-01-13,Full time
-170,8241,Patrizio Cilea,DarkRed,2021-03-28,Full time
-171,9291,Ottavio Bragaglia-Bombieri,LightPink,2022-05-21,Full time
-172,26708,Marco Fallaci,DarkRed,2007-08-22,Full time
-173,23296,Antonina Guarana,DarkRed,2004-10-28,Full time
-174,13765,Tina Pavone-Salata,Orange,2022-04-18,Full time
-175,17584,Olga Busoni,LightPink,2021-01-05,Full time
-176,8850,Atenulf Valmarana-Giolitti,DarkRed,2010-04-26,Full time
-177,800,Tullio Vidoni,MediumSlateBlue,1992-01-06,Full time
-178,19072,Pierpaolo Botta,Orange,2000-07-03,Full time
-179,7912,Dott. Gianfranco Endrizzi,DarkRed,1972-11-03,Full time
-180,37400,Gianmarco Monte,MediumSlateBlue,2019-11-02,Full time
-181,840,Dott. Milena Bruno,Orange,1975-06-25,Full time
-182,23896,Alberto Baglioni,Orange,1983-09-01,Full time
-183,12276,Isabella Turati,Orange,1985-07-16,Full time
-184,14998,Patrizio Olivetti,Linen,2016-08-31,Full time
-185,15950,Lolita Renzi,Linen,2017-05-25,Full time
-186,4846,Sole Grasso-Tuzzolino,DarkRed,1975-02-11,Full time
-187,30800,Liliana Greggio,DarkRed,1987-11-10,Full time
-188,4652,Griselda Antonetti,MediumSlateBlue,2016-08-06,Full time
-189,26200,Sig.ra Livia Ortese,Orange,2012-12-14,Full time
-190,13928,Anita Benussi-Ottino,Orange,1970-09-01,Full time
-191,8395,Donatello Rossini,Linen,2015-10-09,Full time
-192,4704,Costantino Iadanza-Baroffio,LightPink,2010-05-10,Full time
-193,7390,Alderano Gaggini,DarkRed,1980-06-26,Full time
-194,17335,Fabia Crespi,LightPink,1975-06-27,Full time
-195,19530,Letizia Gianvecchio,Orange,2003-07-13,Full time
-196,16596,Dott. Michelangelo Gregorio,MediumSlateBlue,2012-01-13,Full time
-197,21752,Sig. Giuseppe Gramsci,MediumSlateBlue,1985-03-07,Full time
-198,34244,Carla Tamburini,LightPink,2010-11-03,Full time
-199,7294,Carmelo Castelli,Orange,2010-10-06,Full time
-200,16272,Ricciotti Pietrangeli-Storladi,Orange,1983-02-18,Full time
-201,11720,Lucia Salandra,MediumSlateBlue,1976-07-10,Full time
-202,18322,Marta Desio,LightPink,1998-11-30,Full time
-203,2645,Giuliano Priuli,Orange,2007-05-28,Full time
-204,3926,Santino Pasolini,Orange,2009-06-14,Full time
-205,2070,Anita Goldoni-Nievo,MediumSlateBlue,1990-11-23,Full time
-206,5348,Giada Schicchi,Linen,1991-04-29,Full time
-207,18094,Dott. Isa Antonini,MediumSlateBlue,1971-02-11,Full time
-208,17169,Leone Asprucci,LightPink,1982-09-30,Full time
-209,3630,Elvira Sibilia,LightPink,2011-04-01,Full time
-210,8964,Amleto Cesarotti-Panzera,LightPink,2009-11-02,Full time
-211,21955,Giacinto Ricolfi,DarkRed,2002-12-30,Full time
-212,28869,Liberto Perini,Linen,1991-11-01,Full time
-213,14780,Monica Scarfoglio,LightPink,1980-07-15,Full time
-214,24488,Sig.ra Angelina Querini,MediumSlateBlue,2015-05-20,Full time
-215,27270,Ubaldo Pertile,Linen,2002-08-18,Full time
-216,29630,Ludovico Alfieri,LightPink,2013-01-17,Full time
-217,16672,Daria Anguissola,Linen,1977-06-09,Full time
-218,37465,Mariana Brichese,MediumSlateBlue,2006-03-27,Full time
-219,6258,Salvi Tebaldi-Piccinni,Linen,1989-04-22,Full time
-220,4336,Alfredo Abbagnale-Alboni,LightPink,1981-07-17,Full time
-221,12918,Giampiero Finetti,LightPink,2010-03-31,Full time
-222,5812,Mirco Viola,MediumSlateBlue,2008-10-04,Full time
-223,31332,Isa Tarantino,Orange,1982-07-21,Full time
-224,13385,Annibale Verdone-Trapani,Orange,2021-05-01,Full time
-225,7457,Alderano Pizzamano,DarkRed,2002-05-04,Full time
-226,5505,Elmo Zampa,MediumSlateBlue,2017-01-05,Full time
-227,24100,Dott. Osvaldo Ruggieri,Orange,1975-06-07,Full time
-228,7971,Fiorino Zaccagnini,Orange,1993-09-21,Full time
-229,27630,Romeo Parini,Linen,1986-03-10,Full time
-230,1635,Donna Gentili-Telesio,MediumSlateBlue,2017-09-24,Full time
-231,26628,Sig. Mario Gottardi,Linen,2006-09-01,Full time
-232,3104,Nico Abate,LightPink,1976-09-14,Full time
-233,38900,Tiziano Valentino-Campano,LightPink,2020-10-03,Full time
-234,11640,Alphons Giorgetti,DarkRed,1979-01-03,Full time
-235,3728,Flora Lettiere,MediumSlateBlue,2021-11-04,Full time
-236,28383,Lucia Iannelli,Linen,1981-01-15,Full time
-237,18156,Amico Casale,MediumSlateBlue,1997-12-02,Full time
-238,2456,Graziella Amato,Linen,2005-05-28,Full time
-239,9726,Dott. Leopoldo Marconi,DarkRed,1992-08-07,Full time
-240,7308,Giuseppina Galvani,MediumSlateBlue,1974-11-09,Full time
-241,989,Achille Troisi,Orange,1977-10-28,Full time
-242,46290,Pierangelo Treccani,Linen,1991-05-01,Full time
-243,26640,Elisa Sgalambro,Orange,2014-07-22,Full time
-244,1299,Luca Borroni-Cendron,Linen,1974-03-03,Full time
-245,24750,Sig.ra Aria Gioberti,DarkRed,2008-12-03,Full time
-246,7788,Angelo Rinaldi,LightPink,2005-07-04,Full time
-247,12456,Melina Combi,Linen,2004-08-26,Full time
-248,32896,Maurizio Cabibbo,DarkRed,2010-04-16,Full time
-249,2595,Virginia Mazzi,MediumSlateBlue,1987-01-14,Full time
-250,14880,Gastone Casadei,DarkRed,2017-08-17,Full time
-251,3775,Melissa Pedersoli,Linen,2022-05-25,Full time
-252,544,Michelangelo Montessori,Linen,1986-01-22,Full time
-253,26535,Serena Cassarà,Orange,1993-05-24,Full time
-254,4578,Dott. Benito Ficino,Orange,1970-10-03,Full time
-255,5816,Geronimo Basadonna,MediumSlateBlue,1983-11-19,Full time
-256,7696,Dott. Ida Baglioni,DarkRed,2017-11-12,Full time
-257,17324,Mariano Pastine,MediumSlateBlue,1990-05-12,Full time
-258,45715,Giulio Falloppio,Linen,2008-07-30,Full time
-259,10124,Lucio Pagliaro,MediumSlateBlue,1989-06-11,Full time
-260,16947,Annamaria Vespa,LightPink,1997-12-16,Full time
-261,7875,Antonietta Pizzo,DarkRed,2003-10-28,Full time
-262,7972,Alberico Pistoletto,MediumSlateBlue,1996-12-22,Full time
-263,24099,Vincenza Bova,LightPink,1987-07-29,Full time
-264,22365,Gianpaolo Lovato,Linen,2004-12-18,Full time
-265,7572,Camilla Gramsci,LightPink,1988-01-24,Full time
-266,10080,Adamo Malpighi-Emo,LightPink,1994-12-20,Full time
-267,33610,Graziella Vergerio,Orange,1995-09-11,Full time
-268,29655,Sig.ra Erika Almagià,DarkRed,1978-08-22,Full time
-269,5274,Giorgio Folliero,MediumSlateBlue,2010-12-01,Full time
-270,30872,Niccolò Grifeo,Linen,1994-04-17,Full time
-271,31764,Armando Morellato,Linen,2019-11-02,Full time
-272,9002,Guglielmo Foletti,DarkRed,1997-09-21,Full time
-273,8860,Giacinto Regge,DarkRed,1977-05-18,Full time
-274,25236,Dott. Lamberto Seddio,MediumSlateBlue,2004-07-02,Full time
-275,2960,Dott. Ernesto Canevascini,MediumSlateBlue,1973-04-22,Full time
-276,47770,Flora Tresoldi,MediumSlateBlue,1997-08-12,Full time
-277,5382,Amedeo Cimarosa,DarkRed,1984-07-17,Full time
-278,4866,Sig. Alberico Modiano,Orange,1993-11-05,Full time
-279,16148,Dott. Virginia Druso,LightPink,1987-01-23,Full time
-280,22515,Priscilla Morlacchi,DarkRed,2000-11-08,Full time
-281,10785,Vincenzo Ramazzotti-Ioppi,LightPink,1994-11-20,Full time
-282,6912,Ermes Ioppi-Pizzo,MediumSlateBlue,1991-07-10,Full time
-283,22980,Sig.ra Luigina Guglielmi,LightPink,2011-12-04,Full time
-284,9666,Dott. Pierluigi Barzini,MediumSlateBlue,1993-07-17,Full time
-285,14720,Ludovica Malatesta,MediumSlateBlue,2007-12-08,Full time
-286,39890,Napoleone Bosio,Orange,2006-07-23,Full time
-287,2402,Dott. Giada Costalonga,DarkRed,1976-01-20,Full time
-288,17742,Clelia Armellini-Vanvitelli,Linen,2018-12-17,Full time
-289,29530,Sig. Costantino Camanni,LightPink,1991-01-11,Full time
-290,12932,Lorenzo Depero,DarkRed,2020-12-11,Full time
-291,8705,Dott. Giuliana Baresi,DarkRed,1986-06-15,Full time
-292,848,Annunziata Milanesi,LightPink,1990-11-09,Full time
-293,27705,Ottavio Vespa,Orange,2022-01-03,Full time
-294,19784,Gaspare Eco-Ritacca,DarkRed,2003-10-03,Full time
-295,20040,Mercedes Turrini,Orange,1997-05-24,Full time
-296,40230,Luciana Rosiello,Linen,2011-01-13,Full time
-297,29015,Antonia Pedroni,LightPink,1978-05-30,Full time
-298,8780,Virgilio Offredi,Orange,2022-09-25,Full time
-299,14574,Imelda Perini,Orange,2003-04-07,Full time
-300,1302,Marcello Riccati,DarkRed,1997-01-12,Full time
-301,3966,Cristina Gradenigo,Orange,2020-01-24,Full time
-302,32180,Gilberto Piovani,Orange,2004-02-17,Full time
-303,44860,Aurora Porzio,DarkRed,1987-06-22,Full time
-304,8330,Dott. Domenico Corradi,MediumSlateBlue,1984-03-15,Full time
-305,72,Fernanda Gabbana,Linen,1973-11-04,Full time
-306,1560,Donna Donati,DarkRed,1975-01-03,Full time
-307,28550,Teresa Solimena,MediumSlateBlue,1970-09-25,Full time
-308,26105,Rita Garozzo,DarkRed,2005-10-06,Full time
-309,27558,Loretta Vittadello,MediumSlateBlue,1972-02-18,Full time
-310,3380,Dott. Gianmarco Bernardini,LightPink,1995-10-22,Full time
-311,620,Mirco Stucchi,Orange,1993-09-07,Full time
-312,20553,Amanda Pininfarina,DarkRed,2014-03-09,Full time
-313,17274,Ottavio Zampa,LightPink,1997-05-09,Full time
-314,5545,Eleanora Mengolo-Tamborini,Linen,1997-05-24,Full time
-315,186,Fabio Fermi-Donatoni,Linen,1982-05-30,Full time
-316,14970,Gaspare Munari,Linen,1985-05-11,Full time
-317,24969,Piersanti Saracino,LightPink,1980-06-08,Full time
-318,7776,Donna Nitti,DarkRed,1990-04-20,Full time
-319,7971,Giorgia Gottardi,DarkRed,2011-10-15,Full time
-320,3158,Dott. Biagio Gentilini,MediumSlateBlue,1972-03-06,Full time
-321,665,Lodovico Germano,MediumSlateBlue,1981-07-21,Full time
-322,11061,Greca Ajello,LightPink,1973-10-21,Full time
-323,8050,Alessia Dossetti,Linen,1977-07-09,Full time
-324,4128,Liliana Marangoni,LightPink,1986-06-01,Full time
-325,1746,Ermenegildo Maderna,Orange,1997-09-29,Full time
-326,3750,Piero Caccioppoli-Farinelli,DarkRed,2014-06-09,Full time
-327,19776,Rembrandt Trussardi-Pellegrini,Linen,2005-01-24,Full time
-328,5336,Filippo Tropea,LightPink,1973-06-29,Full time
-329,21531,Eugenia Liguori,Orange,1985-04-24,Full time
-330,16630,Dionigi Boezio,MediumSlateBlue,1973-10-31,Full time
-331,455,Claudio Calarco,MediumSlateBlue,1998-12-07,Full time
-332,15400,Silvia Pizziol-Canil,Linen,2000-05-08,Full time
-333,10892,Lisa Petruzzi-Puglisi,Linen,2006-05-05,Full time
-334,39705,Alina Querini,Linen,1979-11-30,Full time
-335,24316,Adriano Renzi,MediumSlateBlue,2012-04-27,Full time
-336,9501,Lucrezia Trebbi-Mengolo,DarkRed,1980-08-25,Full time
-337,11825,Gioacchino Canevascini,Orange,2003-02-22,Full time
-338,35288,Lamberto Duse,Linen,1998-02-15,Full time
-339,7970,Erika Liguori,Orange,1983-10-29,Full time
-340,25746,Alphons Petrocelli,Linen,1972-11-27,Full time
-341,9316,Toni Badoglio-Perozzo,MediumSlateBlue,1999-10-28,Full time
-342,1804,Antonella Castelli,MediumSlateBlue,1978-01-28,Full time
-343,15840,Flavia Ferragamo-Galvani,MediumSlateBlue,2013-03-01,Full time
-344,720,Annibale Gritti,DarkRed,1976-08-24,Full time
-345,5773,Dott. Tiziana Rocca,DarkRed,1973-07-23,Full time
-346,26088,Raffaella Valier,DarkRed,2003-10-03,Full time
-347,18864,Giuliana Giannetti,Linen,1982-10-20,Full time
-348,14548,Silvia Stoppani,LightPink,1984-10-16,Full time
-349,6228,Camilla Acerbi,MediumSlateBlue,2021-03-12,Full time
-350,17092,Marco Scotto,MediumSlateBlue,2009-07-07,Full time
-351,6804,Tullio Antonini-Montalcini,Orange,2019-08-06,Full time
-352,31584,Carolina Scarponi,LightPink,2019-09-10,Full time
-353,5979,Alfredo Bruscantini,LightPink,1992-06-15,Full time
-354,508,Greco Brichese,LightPink,2020-08-31,Full time
-355,1992,Atenulf Ricci-Dellucci,LightPink,1988-02-07,Full time
-356,34895,Nicola Verri,Linen,1971-04-30,Full time
-357,19588,Annalisa Gaito,Orange,1981-10-30,Full time
-358,3199,Nicoletta Napolitano,Linen,2015-12-27,Full time
-359,17036,Uberto Jilani,LightPink,1998-12-19,Full time
-360,11985,Ranieri Anguissola-Gagliano,DarkRed,2012-03-11,Full time
-361,904,Dott. Roberta Taccola,Orange,1996-05-16,Full time
-362,24305,Dott. Veronica Rossi,Orange,1992-07-05,Full time
-363,5422,Adelmo Torlonia,Orange,1986-11-12,Full time
-364,13624,Ennio Sordi,Linen,1991-11-11,Full time
-365,14640,Romina Luna,Linen,1972-12-08,Full time
-366,18258,Mariana Buscetta,MediumSlateBlue,1971-01-13,Full time
-367,37465,Maura Venditti,LightPink,1981-06-05,Full time
-368,29320,Veronica Magrassi,DarkRed,1990-04-04,Full time
-369,41555,Raffaele Niggli,Orange,2009-07-30,Full time
-370,3552,Anita Gregorio,Orange,1982-05-02,Full time
-371,1715,Valeria Trobbiani,Linen,1997-11-13,Full time
-372,24270,Sebastiano Marazzi,DarkRed,1988-10-18,Full time
-373,7332,Fabio Piovani,MediumSlateBlue,2021-04-01,Full time
-374,7658,Sylvia Bianchi,Linen,1971-11-03,Full time
-375,18942,Benvenuto Agostini,Linen,1987-01-31,Full time
-376,5134,Annunziata Rusticucci,MediumSlateBlue,2018-08-14,Full time
-377,15208,Lisa Lollobrigida,MediumSlateBlue,2021-04-10,Full time
-378,16557,Fedele Boitani,Linen,1998-07-19,Full time
-379,1385,Romolo Carducci,MediumSlateBlue,1974-06-28,Full time
-380,4508,Giulietta Gozzi,MediumSlateBlue,1980-08-17,Full time
-381,4944,Ludovico Zanichelli-Carli,Orange,1999-01-18,Full time
-382,19960,Liana Toselli-Manunta,MediumSlateBlue,1971-02-14,Full time
-383,3800,Mercedes Ruberto,Orange,1998-04-19,Full time
-384,15762,Benvenuto Rosiello,Orange,1999-05-26,Full time
-385,20790,Vincenzo Gianvecchio-Tosto,LightPink,2002-09-24,Full time
-386,10732,Fedele Desio,MediumSlateBlue,1996-09-07,Full time
-387,636,Patrizia Beccheria,LightPink,1985-01-03,Full time
-388,17090,Sig.ra Rossana Perini,Orange,1990-05-07,Full time
-389,6794,Matilda Coardi,MediumSlateBlue,2017-04-30,Full time
-390,7560,Liberto Squarcione-Boito,Linen,1982-11-21,Full time
-391,48910,Gianpaolo Doglioni,LightPink,1988-06-29,Full time
-392,7942,Alderano Aulenti,LightPink,2022-01-13,Full time
-393,17496,Rosario Maderna,Linen,2015-09-10,Full time
-394,32936,Annalisa Montanariello,DarkRed,1980-09-10,Full time
-395,3035,Baldassare Barracco,Linen,2017-01-04,Full time
-396,839,Dott. Ermanno Rossellini,LightPink,1981-01-08,Full time
-397,20028,Bernardo Mengolo-Chinnici,Orange,1981-06-04,Full time
-398,17606,Amleto Pirandello-Gadda,Linen,2009-02-13,Full time
-399,7661,Irma Bassi-Faugno,Linen,1974-11-21,Full time
-400,7506,Arnulfo Sermonti,DarkRed,2007-11-25,Full time
-401,2764,Guglielmo Antonetti,DarkRed,1995-09-22,Full time
-402,7605,Clelia Magrassi,DarkRed,2000-12-12,Full time
-403,3345,Romana Angeli,LightPink,2008-07-15,Full time
-404,13606,Elmo Cibin,Orange,1972-10-07,Full time
-405,5884,Sig.ra Teresa Trentin,DarkRed,1985-06-25,Full time
-406,26523,Francesca Gilardoni-Pometta,DarkRed,2002-04-28,Full time
-407,15248,Ivan Bandello,DarkRed,1975-09-29,Full time
-408,13608,Dott. Graziella Jovinelli,MediumSlateBlue,1983-08-15,Full time
-409,5021,Niccolò Borgia,LightPink,1977-09-17,Full time
-410,31404,Sig. Rembrandt Finzi,Linen,1981-01-31,Full time
-411,9348,Adelasia Gulotta,DarkRed,1970-03-22,Full time
-412,25206,Torquato Poerio-Cagnotto,MediumSlateBlue,1997-10-25,Full time
-413,2162,Raffaellino Borsiere-Vento,Linen,1979-03-09,Full time
-414,25080,Rembrandt Tosi,DarkRed,2021-05-05,Full time
-415,6213,Roberto Pucci,LightPink,2008-11-01,Full time
-416,8355,Gianpietro Beccheria,DarkRed,1970-03-11,Full time
-417,28835,Nicoletta Ovadia,MediumSlateBlue,1974-02-25,Full time
-418,6364,Giorgia Fornaciari,Orange,2009-04-24,Full time
-419,2983,Manuel Foà,LightPink,1991-09-04,Full time
-420,45425,Pompeo Michelangeli,Orange,2003-08-02,Full time
-421,14066,Filippo Calbo,MediumSlateBlue,1983-02-24,Full time
-422,5070,Nadia Schicchi,Linen,2022-10-24,Full time
-423,25740,Sig. Rolando Chinnici,MediumSlateBlue,2004-03-26,Full time
-424,3640,Gustavo Gussoni,MediumSlateBlue,1983-05-27,Full time
-425,34720,Dott. Edoardo Caracciolo,Linen,2013-07-06,Full time
-426,26116,Antonello Collodi,Orange,1976-11-17,Full time
-427,28389,Lina Tartaglia,DarkRed,1993-02-04,Full time
-428,4821,Biagio Fischetti,MediumSlateBlue,1972-08-11,Full time
-429,7274,Daniele Boito-Tropea,DarkRed,1992-08-06,Full time
-430,11226,Dott. Luisa Norbiato,Orange,1985-01-20,Full time
-431,44305,Annetta Lombroso,Orange,2002-04-24,Full time
-432,3760,Enzio Roccabonella,LightPink,2009-07-20,Full time
-433,14000,Ezio Longhena,MediumSlateBlue,2012-12-28,Full time
-434,30844,Pier Vitturi,LightPink,1997-08-27,Full time
-435,10268,Bartolomeo Tagliafierro,LightPink,2018-02-18,Full time
-436,4740,Gianluca Monicelli,Linen,1999-12-03,Full time
-437,19120,Fortunata Soderini,Linen,1980-06-09,Full time
-438,16065,Greca Luria-Gaito,Linen,1978-11-05,Full time
-439,6240,Sig.ra Barbara Maderna,LightPink,2021-07-07,Full time
-440,47720,Fabia Storladi,Linen,1973-03-14,Full time
-441,3210,Enzio Albertini,LightPink,2009-03-15,Full time
-442,6459,Giulietta Cantimori,Linen,2019-03-09,Full time
-443,10920,Fernanda Finzi,Orange,1975-11-06,Full time
-444,5615,Lidia Proietti,Orange,2016-02-19,Full time
-445,1892,Dott. Filippo Pastine,Linen,1985-11-10,Full time
-446,9381,Gabriella Gilardoni-Bodoni,MediumSlateBlue,1979-09-20,Full time
-447,8073,Sig. Rocco Foletti,MediumSlateBlue,1972-07-14,Full time
-448,49365,Gabriella Palladio,LightPink,1977-06-06,Full time
-449,35236,Baccio Bonolis-Lerner,DarkRed,1998-04-19,Full time
-450,4094,Valeria Giammusso,MediumSlateBlue,2010-09-01,Full time
-451,8950,Arnulfo Giannotti,Orange,1985-05-17,Full time
-452,12532,Flavia Giolitti,DarkRed,2018-04-10,Full time
-453,46070,Isa Acerbi,Linen,1974-12-04,Full time
-454,3730,Melania Sagnelli-Cociarelli,LightPink,1983-08-29,Full time
-455,39910,Gianfranco Toninelli,DarkRed,1978-11-06,Full time
-456,472,Clelia Babbo,Linen,1974-02-24,Full time
-457,5317,Chiara Bataglia,LightPink,2014-09-30,Full time
-458,9826,Raffaellino Lercari-Leone,Orange,2013-11-25,Full time
-459,17228,Giorgia Monduzzi,Linen,2006-11-19,Full time
-460,18380,Carolina Moccia,DarkRed,1998-12-30,Full time
-461,21660,Gioele Asprucci,MediumSlateBlue,2019-03-31,Full time
-462,21900,Clelia Rossini-Morandi,DarkRed,2006-10-22,Full time
-463,43380,Agnolo Petrucelli,DarkRed,1979-06-17,Full time
-464,6476,Rosaria Caffarelli,DarkRed,1991-12-03,Full time
-465,13056,Patrizia Polesel,Linen,1983-05-04,Full time
-466,26904,Alina Salata,MediumSlateBlue,2017-02-06,Full time
-467,15849,Elisa Fogazzaro,MediumSlateBlue,2013-02-01,Full time
-468,3365,Sig. Ansaldo Tomasetti,LightPink,2014-03-28,Full time
-469,27336,Augusto Gaiatto,Linen,1998-09-29,Full time
-470,532,Filippa Finetti,MediumSlateBlue,2020-07-02,Full time
-471,27639,Dott. Stefano Balla,DarkRed,2003-04-02,Full time
-472,2505,Dott. Serena Scarlatti,MediumSlateBlue,1981-11-05,Full time
-473,8465,Sig.ra Eugenia Guidotti,Linen,1986-07-30,Full time
-474,29304,Sig.ra Sophia Bragaglia,LightPink,2015-03-31,Full time
-475,9822,Letizia Federici,Linen,2013-09-26,Full time
-476,6648,Rembrandt Gozzano-Ruggeri,DarkRed,1988-03-30,Full time
-477,23871,Flora Cossiga-Bresciani,MediumSlateBlue,1990-06-26,Full time
-478,16224,Tiziana Celentano-Mazzacurati,DarkRed,1987-06-30,Full time
-479,18480,Amalia Bondumier-Tassoni,MediumSlateBlue,2022-06-03,Full time
-480,25155,Marina Cesaroni,DarkRed,2002-09-02,Full time
-481,27378,Valentina Antonello,Orange,1976-07-16,Full time
-482,10599,Teresa Zabarella,Orange,2007-10-20,Full time
-483,5036,Sig.ra Matilda Gregorio,Linen,1994-11-12,Full time
-484,1785,Camillo Luxardo,MediumSlateBlue,1975-03-25,Full time
-485,8338,Sig.ra Angelica Salvemini,MediumSlateBlue,2014-01-20,Full time
-486,2163,Claudio Golino-Combi,LightPink,1997-08-17,Full time
-487,9111,Sante Pasolini,LightPink,2016-12-26,Full time
-488,39008,Greco Cafarchia,LightPink,2012-05-28,Full time
-489,17978,Marcella Leblanc,DarkRed,2008-11-15,Full time
-490,28590,Giampiero Tamburini,LightPink,1987-09-25,Full time
-491,4083,Natalia Mascheroni,LightPink,1971-10-31,Full time
-492,5556,Adamo Frescobaldi-Dallapé,MediumSlateBlue,2003-02-12,Full time
-493,13256,Gino Bonatti,Orange,1999-07-11,Full time
-494,46610,Patrizio Montalcini,LightPink,1972-05-12,Full time
-495,32485,Costantino Alighieri,Linen,1996-08-07,Full time
-496,35716,Silvestro Finotto,DarkRed,1983-10-18,Full time
-497,35625,Eleanora Crisafulli,Linen,2001-08-07,Full time
-498,13798,Dott. Telemaco Moschino,Linen,1992-01-22,Full time
-499,15998,Dott. Alphons Gravina,Orange,1971-05-12,Full time
-500,36190,Paoletta Cantimori-Comeriato,DarkRed,1986-08-21,Half time
-501,13492,Sig. Piersanti Travaglio,DarkRed,2008-04-17,Half time
-502,3441,Camilla Endrizzi-Guidotti,Linen,2019-08-10,Half time
-503,98,Maria Cignaroli-Ferretti,LightPink,1989-06-25,Half time
-504,6439,Antonella Caironi-Detti,DarkRed,1991-08-09,Half time
-505,1488,Livia Ferrante-Treves,Linen,2020-04-13,Half time
-506,10666,Dott. Gioffre Natta,LightPink,2022-07-05,Half time
-507,15168,Annetta Balotelli,LightPink,2022-02-03,Half time
-508,6586,Dott. Ivan Bembo,Orange,1974-07-04,Half time
-509,13365,Maurilio Passalacqua,LightPink,1970-04-30,Half time
-510,3740,Dott. Ida Segni,Orange,2011-01-20,Half time
-511,2404,Sig.ra Tina Scotto,MediumSlateBlue,2005-08-13,Half time
-512,8319,Sig.ra Adelasia Pennetta,Orange,2020-04-28,Half time
-513,21108,Sante Comboni,Orange,2019-06-20,Half time
-514,19540,Romolo Argan,Linen,2004-09-19,Half time
-515,3237,Sig. Ivo Lettiere,Orange,1971-09-05,Half time
-516,10746,Sig. Niccolò Vespucci,DarkRed,1971-09-23,Half time
-517,8369,Mauro Ferragni,LightPink,1985-07-01,Half time
-518,42335,Sig.ra Rosalia Fanucci,LightPink,1972-04-24,Half time
-519,25290,Damiano Farnese,DarkRed,1973-08-05,Half time
-520,5148,Michelotto Luna,Orange,2014-08-09,Half time
-521,8125,Dott. Marcella Navarria,Linen,1971-01-19,Half time
-522,3322,Alberico Maderno,DarkRed,2011-10-14,Half time
-523,8550,Lara Scotti-Binaghi,LightPink,2012-10-22,Half time
-524,7434,Ilaria Tozzo,Orange,1970-01-30,Half time
-525,6954,Dott. Ettore Bettin,LightPink,1999-10-24,Half time
-526,16004,Cesare Guarneri,Orange,1979-08-20,Half time
-527,29337,Michele Scarponi,LightPink,1985-11-21,Half time
-528,9774,Livio Tirabassi-Carpaccio,LightPink,2010-07-28,Half time
-529,5698,Arsenio Borzomì,DarkRed,1986-08-10,Half time
-530,39985,Vincenza Bellocchio,Orange,1993-09-21,Half time
-531,33392,Fernanda Sraffa-Serlupi,MediumSlateBlue,2013-10-05,Half time
-532,17390,Nedda Iadanza-Endrizzi,MediumSlateBlue,1978-05-08,Half time
-533,4406,Lando Morlacchi,MediumSlateBlue,1988-01-10,Half time
-534,2723,Bianca Rusticucci,LightPink,1990-04-18,Half time
-535,33580,Sante Sagese,Orange,1988-12-25,Half time
-536,6818,Ruggero Endrizzi,DarkRed,2009-08-14,Half time
-537,7660,Ansaldo Venier,MediumSlateBlue,1996-05-31,Half time
-538,1788,Livia Priuli,LightPink,1974-08-15,Half time
-539,10239,Bianca Lerner,Linen,2017-01-22,Half time
-540,1596,Toni Camuccini,Linen,1970-07-25,Half time
-541,9137,Dante Notarbartolo,MediumSlateBlue,1982-05-20,Half time
-542,9157,Flavia Zichichi,DarkRed,2014-02-10,Half time
-543,5808,Virginia Scarfoglio,DarkRed,2012-12-04,Half time
-544,812,Sig.ra Eugenia Gradenigo,Linen,1972-03-04,Half time
-545,15090,Atenulf Bonino,MediumSlateBlue,1991-07-14,Half time
-546,27192,Jacopo Aulenti,Linen,2005-09-23,Half time
-547,31696,Elmo Contrafatto,Orange,2001-05-23,Half time
-548,608,Piermaria Tommaseo-Bernetti,Orange,1973-07-13,Half time
-549,795,Greca Migliaccio,DarkRed,1987-01-14,Half time
-550,16816,Sig.ra Ornella Gori,Linen,1976-05-06,Half time
-551,16647,Dott. Flora Greggio,MediumSlateBlue,1994-01-02,Half time
-552,12642,Milena Bersani,Orange,1984-08-11,Half time
-553,6295,Gabriele Andreotti,MediumSlateBlue,1990-12-16,Half time
-554,16402,Lina Cianciolo,Linen,2002-07-31,Half time
-555,6520,Paoletta Ludovisi,MediumSlateBlue,2010-06-30,Half time
-556,18774,Clelia Ostinelli-Savorgnan,MediumSlateBlue,1970-01-07,Half time
-557,35265,Lazzaro Gotti,Orange,1993-04-02,Half time
-558,35976,Silvia Bonanno,Linen,1991-12-15,Half time
-559,13795,Lolita Finzi,DarkRed,2017-09-28,Half time
-560,9488,Chiara Altera,DarkRed,2002-09-13,Half time
-561,4314,Severino Tolentino-Lombroso,MediumSlateBlue,1992-05-15,Half time
-562,35016,Renzo Salvo,MediumSlateBlue,1977-07-06,Half time
-563,20910,Elvira Verri,MediumSlateBlue,2006-09-20,Half time
-564,26195,Mirco Bertolucci,Linen,1977-09-08,Half time
-565,46510,Milena Zamengo,DarkRed,2002-09-26,Half time
-566,7080,Emilio Galilei-Galiazzo,Orange,1987-05-02,Half time
-567,17816,Manuel Saffi,Linen,1987-05-14,Half time
-568,24540,Donna Piacentini,DarkRed,2013-03-01,Half time
-569,15025,Cassandra Renault,Linen,1973-07-28,Half time
-570,27600,Caterina Viola,LightPink,1984-04-02,Half time
-571,23988,Giuliana Ceschi-Ariosto,Linen,1977-11-23,Half time
-572,29667,Melania Carullo,Orange,1972-02-22,Half time
-573,4880,Fabia Ricolfi,DarkRed,1989-05-02,Half time
-574,19622,Sig.ra Daria Seddio,MediumSlateBlue,2019-06-10,Half time
-575,16275,Paolo Grasso,MediumSlateBlue,1985-11-16,Half time
-576,19374,Ermenegildo Guarana,DarkRed,2005-08-10,Half time
-577,3704,Raimondo Foà,Linen,1976-07-22,Half time
-578,7642,Sig. Ferdinando Cantimori,MediumSlateBlue,1997-09-08,Half time
-579,296,Nicolò Borghese,Orange,1984-06-01,Half time
-580,12260,Alfio Cianciolo,Orange,1985-04-25,Half time
-581,9004,Armando Leonetti,Linen,2000-10-21,Half time
-582,9340,Lucia Bixio,MediumSlateBlue,1978-01-22,Half time
-583,19610,Eleanora Borrani,Linen,1971-09-27,Half time
-584,8676,Dott. Elmo Inzaghi,DarkRed,2020-07-05,Half time
-585,21057,Romana Rossini-Morlacchi,MediumSlateBlue,2003-02-06,Half time
-586,24378,Susanna Ficino-Palombi,MediumSlateBlue,1976-01-20,Half time
-587,640,Mercedes Nitto,LightPink,2004-10-10,Half time
-588,49055,Antonella Nievo,MediumSlateBlue,2006-05-30,Half time
-589,7475,Enzio Bruno,LightPink,1979-05-04,Half time
-590,23945,Fredo Tartini,Linen,1996-09-16,Half time
-591,2335,Dott. Carla Cannizzaro,Orange,1998-06-16,Half time
-592,7782,Allegra Morellato,LightPink,1995-04-11,Half time
-593,19336,Luchino Schiaparelli,Orange,1984-06-04,Half time
-594,802,Iolanda Gadda,MediumSlateBlue,2005-06-24,Half time
-595,5245,Sig.ra Susanna Cherubini,MediumSlateBlue,1987-08-16,Half time
-596,10662,Alessandro Niscoromni,LightPink,1972-01-17,Half time
-597,36064,Lamberto Antonetti,Linen,2011-06-05,Half time
-598,1139,Leone Torricelli,Linen,2015-02-23,Half time
-599,11046,Dott. Sole Abba,Linen,2002-11-01,Half time
-600,4063,Sig. Atenulf Sbarbaro,DarkRed,1978-07-17,Half time
-601,19395,Sig. Roberto Gramsci,Orange,1982-11-14,Half time
-602,9642,Anita Alboni-Sforza,DarkRed,2013-11-06,Half time
-603,6711,Manuel Borsellino-Scarponi,LightPink,2008-10-26,Half time
-604,70,Daria Rocca,Orange,1973-06-14,Half time
-605,15042,Mattia Conte,Linen,2015-10-25,Half time
-606,3051,Severino Morellato-Caccianemico,LightPink,2020-07-28,Half time
-607,25148,Corrado Carducci-Monti,Linen,1984-01-21,Half time
-608,1944,Teresa Papetti,Linen,1990-05-02,Half time
-609,25164,Lodovico Palazzo,LightPink,1980-10-05,Half time
-610,3267,Margherita Sgarbi,DarkRed,1980-09-09,Half time
-611,31965,Dott. Mario Dossi,LightPink,1986-04-05,Half time
-612,6162,Sig.ra Lucia Mazzini,Orange,1972-07-18,Half time
-613,15898,Alessia Mannoia,Orange,1990-05-11,Half time
-614,29720,Giulietta Segni-Broschi,DarkRed,2009-04-10,Half time
-615,8344,Piergiuseppe Montanariello,Orange,1975-06-08,Half time
-616,324,Danilo Corradi,DarkRed,2005-08-03,Half time
-617,11450,Sebastiano Pace,DarkRed,2006-09-29,Half time
-618,13685,Sig.ra Clelia Guarana,Linen,2001-09-21,Half time
-619,3204,Alessandro Loredan,MediumSlateBlue,1993-06-01,Half time
-620,19070,Amico Filangieri,Orange,1973-12-14,Half time
-621,7656,Luciana Franceschi,MediumSlateBlue,2020-01-21,Half time
-622,1967,Nadia Zarlino,DarkRed,1971-03-16,Half time
-623,28329,Sig.ra Nina Procacci,MediumSlateBlue,1979-08-30,Half time
-624,19083,Sig. Lamberto Smirnoff,MediumSlateBlue,1999-07-26,Half time
-625,3456,Antonina Franscini,LightPink,2021-03-22,Half time
-626,7196,Sandra Petruzzi,LightPink,2005-08-29,Half time
-627,10422,Armando Bellini-Salgari,DarkRed,1970-03-25,Half time
-628,712,Dott. Pasqual Giacconi,LightPink,1989-05-17,Half time
-629,2160,Bartolomeo Ficino,LightPink,1972-08-30,Half time
-630,31285,Carolina Giusti,DarkRed,2009-01-21,Half time
-631,25768,Rosalia Vasari-Vento,DarkRed,1985-09-13,Half time
-632,16775,Lauretta Boezio,Orange,2012-09-16,Half time
-633,45465,Gloria Conti-Zampa,Orange,1973-07-07,Half time
-634,4579,Lando Vigorelli,Orange,2005-04-29,Half time
-635,7128,Sig. Ruggiero Tasso,Orange,1976-06-05,Half time
-636,21448,Veronica Delle,Orange,1972-04-01,Half time
-637,600,Amanda Salandra,LightPink,1970-02-09,Half time
-638,19395,Lucio Pedersoli,LightPink,1973-12-02,Half time
-639,270,Jacopo Chiappetta,LightPink,1991-06-02,Half time
-640,20548,Ezio Guinizzelli,LightPink,1993-03-01,Half time
-641,7220,Maria Pincherle,Orange,1973-04-22,Half time
-642,28168,Romolo Capuana-Redi,MediumSlateBlue,1991-02-22,Half time
-643,22580,Berenice Cicilia-Duodo,Orange,1997-02-06,Half time
-644,2102,Gianfrancesco Rinaldi,LightPink,2018-09-13,Half time
-645,5447,Salvatore Boccherini,Orange,1994-11-27,Half time
-646,7104,Ivo Munari,Orange,1996-07-14,Half time
-647,6081,Dott. Chiara Errani,Orange,2004-09-22,Half time
-648,6272,Ermanno Barsanti,Orange,2019-12-22,Half time
-649,5702,Bianca Cutrufo,MediumSlateBlue,2008-01-02,Half time
-650,45445,Sig. Ottavio Cagnotto,Linen,1982-05-10,Half time
-651,47585,Dott. Osvaldo Gelli,LightPink,1987-03-12,Half time
-652,2192,Alderano Totino,MediumSlateBlue,2022-10-30,Half time
-653,4280,Vittoria Bianchi-Foletti,LightPink,1995-04-30,Half time
-654,1260,Fredo Fermi,Linen,2015-08-05,Half time
-655,31715,Rosina Cipolla-Grassi,DarkRed,2007-10-28,Half time
-656,10832,Martino Bacosi,MediumSlateBlue,2003-10-19,Half time
-657,13954,Martino Battaglia-Salgari,LightPink,1999-09-16,Half time
-658,15084,Fausto Accardo,LightPink,2002-03-23,Half time
-659,14630,Aria Rastelli,LightPink,2019-10-25,Half time
-660,19840,Damiano Pucci-Germano,Orange,1981-03-14,Half time
-661,9524,Marcello Schicchi,LightPink,1982-08-16,Half time
-662,7329,Sig. Baccio Turati,LightPink,1989-07-05,Half time
-663,8285,Adamo Soffici,Orange,2009-06-09,Half time
-664,7360,Rodolfo Giacconi,MediumSlateBlue,1971-02-25,Half time
-665,13857,Jolanda Nievo,Orange,2009-09-27,Half time
-666,96,Gastone Capecchi,LightPink,2019-08-01,Half time
-667,2895,Girolamo Ligorio,DarkRed,1986-08-02,Half time
-668,7608,Marcella Fabbri,Linen,1991-11-07,Half time
-669,1005,Dott. Giulio Accardo,LightPink,2001-10-09,Half time
-670,14676,Carolina Gasperi,MediumSlateBlue,2016-07-09,Half time
-671,14208,Gemma Boezio-Bignardi,Linen,1982-07-02,Half time
-672,2503,Stella Ferretti,DarkRed,2006-08-24,Half time
-673,22636,Germana Morandini,Orange,1987-03-30,Half time
-674,8070,Susanna Brunelleschi,Orange,1999-08-19,Half time
-675,2458,Dario Paolini,LightPink,1974-11-17,Half time
-676,4195,Tonia Cerquiglini,Linen,2009-07-31,Half time
-677,28556,Sandro Cimini,DarkRed,1976-02-28,Half time
-678,17680,Mirko Asmundo,Orange,1994-01-27,Half time
-679,4376,Dott. Giorgio Natta,MediumSlateBlue,2009-04-22,Half time
-680,31960,Jacopo Lombroso-Pertile,Orange,2016-10-02,Half time
-681,6459,Dott. Adriana Belletini,MediumSlateBlue,1991-03-20,Half time
-682,29304,Melania Travia-Boaga,Orange,1992-10-09,Half time
-683,4416,Mattia Frescobaldi-Franzese,Orange,1972-12-05,Half time
-684,39440,Gustavo Galvani,Orange,1981-07-29,Half time
-685,44090,Benvenuto Bresciani,Orange,1994-05-03,Half time
-686,2192,Nadia Pucci,DarkRed,1990-03-05,Half time
-687,31945,Simonetta Dandolo,MediumSlateBlue,1990-09-17,Half time
-688,7758,Ermenegildo Duodo-Comeriato,DarkRed,1975-08-11,Half time
-689,13386,Sig. Alfredo Redi,LightPink,1977-02-12,Half time
-690,2822,Lazzaro Casini,Linen,1979-06-24,Half time
-691,4848,Silvestro Canali,Orange,1977-06-14,Half time
-692,5933,Sig. Enzo Cusano,Orange,2001-12-26,Half time
-693,3615,Paulina Interminelli,DarkRed,1970-01-28,Half time
-694,1640,Gionata Migliaccio,Orange,2017-08-29,Half time
-695,2535,Piergiorgio Lerner,LightPink,2012-06-13,Half time
-696,502,Orlando Fabbri,MediumSlateBlue,1993-10-02,Half time
-697,10362,Antonina Pace,LightPink,1990-02-13,Half time
-698,17344,Luigina Majewski,Linen,2003-11-26,Half time
-699,826,Gianluca Faugno,MediumSlateBlue,1988-10-25,Half time
-700,34835,Lauretta Govoni,Orange,2001-05-11,Half time
-701,20415,Martina Almagià,LightPink,1971-04-24,Half time
-702,5128,Priscilla Faugno,MediumSlateBlue,1982-12-03,Half time
-703,29780,Calogero Cilibrasi,LightPink,1985-11-23,Half time
-704,52,Piergiorgio Tarantino,Linen,2000-11-20,Half time
-705,5048,Francesca Vattimo-Musatti,MediumSlateBlue,2021-02-05,Half time
-706,7906,Sonia Grossi-Veneziano,Orange,1993-10-13,Half time
-707,7550,Calogero Regge,MediumSlateBlue,2021-01-23,Half time
-708,6124,Dott. Ottavio Errigo,LightPink,1990-05-02,Half time
-709,888,Rosa Novaro,LightPink,2000-03-12,Half time
-710,9384,Alfio Campano-Ariasso,Linen,1970-11-01,Half time
-711,8286,Lodovico Tutino-Torricelli,LightPink,2006-07-30,Half time
-712,6636,Dott. Amadeo Ravaglioli,Orange,1977-07-26,Half time
-713,1476,Sig. Rolando Prati,MediumSlateBlue,1999-01-24,Half time
-714,4780,Dott. Rosina Spadafora,Linen,2022-05-22,Half time
-715,11038,Sig.ra Chiara Casaleggio,LightPink,1982-04-26,Half time
-716,1381,Venancio Disdero,Linen,2013-03-29,Half time
-717,6835,Maria Greggio,MediumSlateBlue,2016-07-13,Half time
-718,1384,Pasqual Medici,DarkRed,1999-06-11,Half time
-719,6126,Paola Pontecorvo,Linen,1984-08-29,Half time
-720,28256,Pellegrino Disdero,Orange,2018-03-31,Half time
-721,22640,Coluccio Brancaccio,LightPink,1974-03-21,Half time
-722,13368,Riccardo Squarcione,DarkRed,1992-03-29,Half time
-723,3061,Sig. Marco Camicione,Linen,2011-05-01,Half time
-724,21980,Rodolfo Cianciolo,Orange,1970-04-11,Half time
-725,46590,Giulia Pininfarina,MediumSlateBlue,1974-05-29,Half time
-726,34848,Cecilia Giorgetti,LightPink,2016-05-12,Half time
-727,4664,Panfilo Costanzi,DarkRed,2008-11-25,Half time
-728,28808,Giosuè Gussoni,LightPink,1998-09-19,Half time
-729,17490,Viridiana Spinola,MediumSlateBlue,2004-07-28,Half time
-730,6260,Griselda Norbiato-Pedroni,Linen,2011-07-07,Half time
-731,9207,Piersanti Spanevello-Govoni,LightPink,1970-11-22,Half time
-732,6705,Giulio Fagiani,DarkRed,1975-07-07,Half time
-733,6142,Diana Volterra,Linen,2013-12-21,Half time
-734,6433,Sig. Agnolo Brichese,MediumSlateBlue,1976-06-16,Half time
-735,6987,Gianfranco Berengario,LightPink,2007-12-01,Half time
-736,25065,Cassandra Gaiatto,Linen,1990-09-29,Half time
-737,6374,Donatello Papafava-Casellati,DarkRed,1979-10-28,Half time
-738,17304,Sig.ra Francesca Travaglia,LightPink,1999-04-24,Half time
-739,689,Michelotto Napolitano,DarkRed,2015-01-23,Half time
-740,5062,Liliana Tropea,DarkRed,1991-10-05,Half time
-741,12235,Sebastiano Finotto,Linen,2022-04-25,Half time
-742,7650,Sig. Jacopo Castiglione,DarkRed,1992-01-25,Half time
-743,9407,Gioffre Morricone,LightPink,1980-05-02,Half time
-744,3274,Olga Pedersoli,Orange,2003-03-30,Half time
-745,38140,Guido Salandra,Linen,1982-10-04,Half time
-746,49290,Lidia Ostinelli-Cagnotto,Orange,2014-12-30,Half time
-747,13296,Valerio Filippini,MediumSlateBlue,1998-01-14,Half time
-748,2616,Enrico Finotto-Pietrangeli,MediumSlateBlue,1995-05-27,Half time
-749,11259,Gabriele Draghi,DarkRed,2022-01-22,Half time
-750,25180,Pier Mascagni,DarkRed,2010-10-03,Half time
-751,9834,Costanzo Nonis,LightPink,2003-10-08,Half time
-752,37885,Rosa Pasolini,LightPink,2017-05-03,Half time
-753,11888,Lorenzo Ferraris,Orange,2019-10-05,Half time
-754,39900,Danilo Scalera,Orange,2011-05-25,Half time
-755,23337,Francesca Ferrara,Orange,2015-09-22,Half time
-756,9180,Ennio Deledda,DarkRed,2004-01-24,Half time
-757,14752,Germana Condoleo,Orange,1975-09-17,Half time
-758,8506,Claudio Iannuzzi,Orange,1973-05-07,Half time
-759,3910,Sig. Alessio Riccati,DarkRed,1977-02-25,Half time
-760,1638,Severino Monti,Orange,1987-04-24,Half time
-761,7686,Vittoria Montalti,LightPink,1984-05-28,Half time
-762,8498,Gianmarco Mennea,LightPink,2017-06-17,Half time
-763,2485,Gionata Baroffio,LightPink,2005-03-10,Half time
-764,18594,Ermes Puccini-Maspero,Orange,2013-11-05,Half time
-765,10756,Gelsomina Baroffio,Linen,1988-08-27,Half time
-766,29547,Maura Platini,Orange,1980-02-02,Half time
-767,9015,Sig. Calogero Giacconi,DarkRed,2011-10-04,Half time
-768,9526,Damiano Morucci,DarkRed,2010-05-29,Half time
-769,15276,Ferdinando Campanella,LightPink,1977-01-24,Half time
-770,34570,Marcella Boldù,DarkRed,2020-04-25,Half time
-771,5876,Sig.ra Michela Greggio,Linen,2013-04-25,Half time
-772,12680,Victoria Giradello-Treves,DarkRed,1995-07-25,Half time
-773,16310,Dino Valentino,DarkRed,2008-11-07,Half time
-774,23115,Eleanora Bernetti,MediumSlateBlue,2009-06-23,Half time
-775,15534,Carla Tassoni,Linen,1977-09-09,Half time
-776,35870,Ida Polizzi,MediumSlateBlue,1976-09-24,Half time
-777,9250,Angelica Travaglio,MediumSlateBlue,2020-11-30,Half time
-778,7544,Tina Giannetti,LightPink,1976-08-17,Half time
-779,3250,Giorgia Gentileschi-Regge,MediumSlateBlue,2002-06-20,Half time
-780,7362,Sig.ra Gloria Salgari,Linen,1997-07-01,Half time
-781,18460,Telemaco Trussardi-Marinetti,MediumSlateBlue,1995-02-26,Half time
-782,12138,Franco Scarpa,Linen,2010-07-19,Half time
-783,16784,Rita Frescobaldi-Cabrini,Linen,2015-05-15,Half time
-784,14085,Aria Druso,DarkRed,2017-11-09,Half time
-785,20860,Guglielmo Tozzo,DarkRed,1976-12-09,Half time
-786,1255,Gaetano Romano,LightPink,2016-05-30,Half time
-787,27165,Erika Raurica,DarkRed,2022-02-05,Half time
-788,10330,Sig. Cirillo Surian,LightPink,1971-09-25,Half time
-789,16915,Sig. Geronimo Ovadia,LightPink,1991-05-01,Half time
-790,221,Leopoldo Casagrande,Linen,1989-03-18,Half time
-791,5235,Manuel Barcaccia,Orange,1976-05-10,Half time
-792,12055,Dott. Gabriella Bettoni,Orange,2020-01-10,Half time
-793,7962,Dott. Imelda Lanfranchi,LightPink,1991-05-22,Half time
-794,7484,Alphons Trombetta-Turchi,MediumSlateBlue,1998-06-07,Half time
-795,27780,Giorgia Fantoni,Linen,1981-08-13,Half time
-796,1695,Goffredo Saffi,Orange,2000-07-23,Half time
-797,7415,Antonella Procacci,LightPink,1976-10-15,Half time
-798,29004,Enzo Chindamo,LightPink,2018-05-21,Half time
-799,23736,Milo Pellegrini-Morucci,Linen,2021-02-18,Half time
-800,12000,Sig.ra Virginia Bergoglio,Linen,1994-09-15,Half time
-801,1826,Donna Bodoni,Orange,1970-09-18,Half time
-802,8072,Ivan Sforza,Linen,1985-10-17,Half time
-803,7174,Giuliana Busoni-Malipiero,LightPink,1992-10-08,Half time
-804,43775,Nedda Vergerio,Linen,1995-07-18,Half time
-805,5148,Osvaldo Conti,Linen,1979-08-15,Half time
-806,19224,Berenice Granatelli,DarkRed,1985-06-21,Half time
-807,18486,Giacomo Mocenigo,LightPink,1991-10-07,Half time
-808,47575,Gianpaolo Pisani,MediumSlateBlue,1984-08-15,Half time
-809,777,Gioffre Pellegrini-Verri,MediumSlateBlue,2017-12-10,Half time
-810,5505,Dott. Coriolano Natta,LightPink,2003-12-20,Half time
-811,46090,Fabia Siffredi,Linen,1993-09-20,Half time
-812,29935,Fiorino Ravaglioli,DarkRed,2011-08-26,Half time
-813,2907,Bianca Lancisi,LightPink,2010-07-23,Half time
-814,16588,Giancarlo Guarana,Linen,1998-04-18,Half time
-815,27525,Raffaella Bixio-Savorgnan,Orange,1978-04-01,Half time
-816,5025,Sabatino Monteverdi,Linen,1979-05-05,Half time
-817,6475,Gianluigi Orsini-Jilani,DarkRed,1985-03-15,Half time
-818,9934,Letizia Leone,LightPink,2008-01-01,Half time
-819,37490,Dott. Diana Donatoni,LightPink,2017-01-30,Half time
-820,15694,Melina Tartini,DarkRed,1989-08-14,Half time
-821,16116,Dott. Dino Travaglio,Orange,1971-10-19,Half time
-822,575,Irma Platini,LightPink,2010-09-26,Half time
-823,11008,Ruggiero Cerquiglini,Linen,2013-07-18,Half time
-824,29896,Antonietta Mercantini-Piacentini,DarkRed,1999-09-25,Half time
-825,624,Luciana Maspero,Orange,1982-09-13,Half time
-826,13917,Beppe Zito,Orange,1970-07-21,Half time
-827,5962,Ilaria Pausini,Linen,2009-01-31,Half time
-828,16608,Lazzaro Coardi,Orange,1992-03-30,Half time
-829,2446,Sig.ra Sonia Lucciano,Linen,2014-12-30,Half time
-830,2413,Maurilio Barillaro,MediumSlateBlue,1994-05-25,Half time
-831,47615,Umberto Branciforte,MediumSlateBlue,2009-03-21,Half time
-832,2616,Lolita Tomei,Orange,2003-03-02,Half time
-833,2040,Emilio Sanudo,Orange,1988-12-28,Part time
-834,4108,Victoria Sansoni-Foà,Orange,2015-06-12,Part time
-835,33448,Anita Turci,LightPink,1977-08-19,Part time
-836,30632,Flora Baroffio,DarkRed,2008-10-28,Part time
-837,3030,Camilla Bernardini,DarkRed,1972-11-09,Part time
-838,12736,Martina Satta,MediumSlateBlue,2005-06-27,Part time
-839,15938,Nico Piacentini,MediumSlateBlue,2003-09-01,Part time
-840,5197,Dott. Matilda Cammarata,Linen,1987-11-11,Part time
-841,16134,Augusto Castioni,MediumSlateBlue,1974-02-28,Part time
-842,884,Piergiuseppe Segrè,Orange,1990-06-19,Part time
-843,17882,Fredo Toscani,LightPink,2016-01-27,Part time
-844,439,Riccardo Gagliano-Marconi,LightPink,2002-01-09,Part time
-845,5368,Dott. Erika Medici,MediumSlateBlue,1983-01-03,Part time
-846,3061,Giulio Priuli-Mantegazza,Orange,2020-10-06,Part time
-847,34200,Sig.ra Gianna Bertoni,Linen,1981-02-07,Part time
-848,19264,Dott. Aurora Bergoglio,MediumSlateBlue,1984-09-17,Part time
-849,0,Liana Iannuzzi,MediumSlateBlue,2017-11-21,Part time
-850,9704,Sig.ra Daria Tropea,Orange,2016-01-18,Part time
-851,42585,Gianluigi Guarneri,MediumSlateBlue,1999-07-20,Part time
-852,41135,Massimiliano Accardo,Orange,2019-01-24,Part time
-853,922,Giustino Tassoni,DarkRed,1975-09-05,Part time
-854,15096,Priscilla Nitti,DarkRed,2020-04-07,Part time
-855,15214,Dott. Fernanda Campise,DarkRed,1977-12-19,Part time
-856,7992,Edoardo Jovinelli,LightPink,2014-04-09,Part time
-857,22908,Pierina Sorrentino,MediumSlateBlue,1983-04-03,Part time
-858,26792,Giacobbe Turrini,MediumSlateBlue,2005-03-16,Part time
-859,7724,Berenice Tuzzolino,Orange,1979-06-08,Part time
-860,6776,Sig.ra Tatiana Chiappetta,LightPink,1982-08-09,Part time
-861,6508,Giacobbe Anichini,DarkRed,1980-03-14,Part time
-862,15860,Eleanora Brunelleschi-Bianchi,Linen,2008-05-20,Part time
-863,39050,Sig.ra Jolanda Errani,MediumSlateBlue,2001-08-25,Part time
-864,1068,Fernanda Pistoletto-Filippelli,LightPink,2008-03-24,Part time
-865,11400,Dott. Adele Montecchi,Linen,2000-12-13,Part time
-866,10518,Gianpietro Gualandi,LightPink,2012-12-08,Part time
-867,3804,Lisa Riccati,Orange,2015-10-29,Part time
-868,8685,Piermaria Porzio-Lettiere,Orange,2002-03-23,Part time
-869,48385,Caterina Sagese-Pisani,LightPink,2002-09-17,Part time
-870,8793,Fausto Niscoromni-Soffici,Linen,2021-02-04,Part time
-871,46995,Sig. Alessio Marcacci,MediumSlateBlue,2007-07-07,Part time
-872,23912,Ruggero Sandi-Santi,LightPink,2016-12-24,Part time
-873,24656,Maura Campano,Orange,1990-06-10,Part time
-874,24105,Maria Morucci,MediumSlateBlue,2014-07-07,Part time
-875,4572,Dolores Olivetti,MediumSlateBlue,2019-08-03,Part time
-876,1427,Tina Riccati,MediumSlateBlue,2005-09-18,Part time
-877,21980,Rosaria Saracino,MediumSlateBlue,2020-04-19,Part time
-878,6680,Gian Antonetti,Linen,1988-05-01,Part time
-879,15890,Carla Ginese,Orange,2022-01-22,Part time
-880,3979,Sig.ra Evangelista Battaglia,LightPink,1992-08-17,Part time
-881,958,Rossana Guarana-Ponti,Linen,2013-08-06,Part time
-882,25560,Rita Peranda,Linen,1993-05-20,Part time
-883,7436,Sig. Luchino Alboni,MediumSlateBlue,1979-10-03,Part time
-884,22915,Dott. Liberto Valguarnera,MediumSlateBlue,2013-02-13,Part time
-885,26056,Rosa Comisso,LightPink,1989-02-22,Part time
-886,7258,Dott. Paulina Piovani,MediumSlateBlue,1976-03-27,Part time
-887,1777,Donatella Toninelli,Orange,1977-08-29,Part time
-888,15235,Marissa Perozzo-Spinelli,LightPink,2014-01-15,Part time
-889,5640,Gionata Chinnici,DarkRed,2003-12-02,Part time
-890,19569,Silvio Pisani-Fornaciari,LightPink,1999-09-24,Part time
-891,8845,Marissa Tresoldi,Linen,1986-01-01,Part time
-892,28780,Cassandra Renzi,MediumSlateBlue,2008-03-29,Part time
-893,17118,Imelda Berlusconi-Filippini,DarkRed,2002-02-04,Part time
-894,1064,Dott. Liberto Juvara,MediumSlateBlue,2022-10-13,Part time
-895,10008,Giorgio Bajamonti,Linen,1982-10-09,Part time
-896,3500,Antonello Fibonacci-Brancaccio,MediumSlateBlue,1994-04-01,Part time
-897,15873,Piermaria Vittadello,Orange,2014-08-27,Part time
-898,18728,Sig.ra Nina Randazzo,Linen,2009-04-21,Part time
-899,4912,Gian Ponti,Linen,2008-03-11,Part time
-900,1970,Dante Luna,MediumSlateBlue,2006-04-22,Part time
-901,14504,Renzo Belletini,Orange,1978-11-03,Part time
-902,5284,Ennio Costalonga,LightPink,2022-05-31,Part time
-903,13581,Pellegrino Gucci,MediumSlateBlue,2007-02-06,Part time
-904,6700,Pierina Ciani,Orange,1994-12-27,Part time
-905,3746,Nicoletta Salvemini,LightPink,1997-12-30,Part time
-906,2945,Maria Interiano,LightPink,1993-11-07,Part time
-907,19623,Pina Conti,Orange,1975-11-29,Part time
-908,49860,Sig. Ricciotti Serraglio,MediumSlateBlue,1996-03-03,Part time
-909,22914,Sandra Giammusso,LightPink,2014-07-31,Part time
-910,5751,Atenulf Priuli,LightPink,1970-06-13,Part time
-911,49255,Romana Ceschi,Orange,1991-07-01,Part time
-912,14706,Ottone Bonolis,DarkRed,1982-10-30,Part time
-913,8624,Ermanno Naccari,DarkRed,1995-07-20,Part time
-914,98,Dott. Beatrice Totino,Orange,1994-11-11,Part time
-915,12492,Eva Chiappetta,LightPink,2013-07-06,Part time
-916,10032,Dott. Umberto Filippelli,MediumSlateBlue,2009-06-09,Part time
-917,1524,Giacobbe Morgagni,MediumSlateBlue,2004-09-14,Part time
-918,781,Camillo Tomei,MediumSlateBlue,2021-04-27,Part time
-919,11764,Ramona Opizzi,DarkRed,1974-12-06,Part time
-920,8442,Achille Vitturi,Orange,2015-06-15,Part time
-921,19720,Maura Fabbri,Orange,1974-10-10,Part time
-922,3528,Sig.ra Concetta Ungaretti,MediumSlateBlue,2005-08-12,Part time
-923,7253,Antonello Scarpetta,LightPink,1972-11-30,Part time
-924,11355,Serafina Montanelli,Linen,1983-12-07,Part time
-925,39205,Mario Cainero,Linen,2017-03-13,Part time
-926,5882,Luigi Mogherini,DarkRed,1971-01-18,Part time
-927,28555,Vittoria Samele,MediumSlateBlue,2018-03-29,Part time
-928,15756,Sig.ra Letizia Vattimo,DarkRed,1976-09-15,Part time
-929,13386,Sig.ra Graziella Boccherini,LightPink,1978-04-12,Part time
-930,7777,Daniele Lombroso,Linen,1986-01-26,Part time
-931,1254,Diana Bonomo,DarkRed,1991-03-14,Part time
-932,414,Martino Camiscione-Chittolini,MediumSlateBlue,2017-10-06,Part time
-933,20277,Dott. Antonia Sanudo,MediumSlateBlue,2006-11-05,Part time
-934,16791,Renata Molesini-Rubbia,MediumSlateBlue,1982-12-28,Part time
-935,19660,Romeo Abatantuono,Orange,2005-11-10,Part time
-936,36920,Barbara Riccati-Giannetti,Orange,1983-03-20,Part time
-937,35940,Pierina Vecoli-Niscoromni,DarkRed,1996-10-27,Part time
-938,2421,Severino Serraglio,DarkRed,2001-10-19,Part time
-939,5226,Simonetta Mortati,MediumSlateBlue,2008-12-27,Part time
-940,9504,Silvia Paruta,LightPink,1970-02-03,Part time
-941,17938,Liberto Pisacane-Pergolesi,LightPink,1978-01-05,Part time
-942,8970,Stella Giacconi-Parpinel,MediumSlateBlue,2022-06-06,Part time
-943,9852,Dott. Adele Nibali,MediumSlateBlue,1990-09-03,Part time
-944,29820,Daria Maggioli,MediumSlateBlue,1986-10-22,Part time
-945,1734,Dott. Sophia Cibin,MediumSlateBlue,1990-11-12,Part time
-946,40315,Vanessa Sermonti,DarkRed,1993-09-19,Part time
-947,16671,Donna Gianvecchio,Linen,2010-07-21,Part time
-948,18134,Dott. Bettina Gregori,Linen,1986-03-07,Part time
-949,21755,Giampaolo Nicolucci,DarkRed,2003-09-29,Part time
-950,25220,Dott. Ida Comeriato,Orange,2000-01-19,Part time
-951,3357,Anita Badoglio,Linen,1990-10-02,Part time
-952,7036,Paloma Vezzali,LightPink,2015-08-04,Part time
-953,8432,Zaira Salvo,Linen,1973-01-21,Part time
-954,650,Donato Bianchini,DarkRed,2011-03-27,Part time
-955,4452,Eva Persico,MediumSlateBlue,2015-09-24,Part time
-956,7607,Maura Contrafatto,Orange,1999-07-11,Part time
-957,3559,Barbara Grassi,Orange,2011-06-24,Part time
-958,27315,Adriano Cilibrasi,Orange,2010-12-21,Part time
-959,8146,Telemaco Sgarbi,MediumSlateBlue,1998-12-28,Part time
-960,14184,Sig. Benedetto Busoni,Linen,1982-09-04,Part time
-961,30220,Caterina Giannuzzi,Orange,2018-05-06,Part time
-962,2145,Sig. Uberto Bignardi,Linen,1977-06-18,Part time
-963,1909,Rolando Giorgetti,Linen,2021-10-15,Part time
-964,42100,Silvia Pelli,Orange,2022-09-13,Part time
-965,3623,Ludovico Modigliani,Linen,1986-10-29,Part time
-966,15086,Gianna Priuli-Contarini,Orange,1975-07-09,Part time
-967,3730,Sig.ra Tina Asmundo,Linen,2003-11-02,Part time
-968,2925,Allegra Cignaroli,Linen,1970-11-25,Part time
-969,3088,Etta Grassi,LightPink,1970-08-30,Part time
-970,36470,Jolanda Liguori,Linen,1978-06-23,Part time
-971,8135,Sig. Maurilio Aulenti,LightPink,1996-06-07,Part time
-972,3415,Dott. Giustino Conti,Linen,2015-05-15,Part time
-973,7602,Melissa Mercadante,MediumSlateBlue,2015-09-14,Part time
-974,23272,Sig.ra Marta Civaschi,Linen,1980-02-21,Part time
-975,6697,Leopoldo Mondaini,LightPink,1978-01-02,Part time
-976,8933,Gaspare Polizzi,Linen,1970-02-21,Part time
-977,992,Ermenegildo Filzi,Orange,2022-04-28,Part time
-978,48895,Marina Canetta-Borromeo,Orange,1994-01-08,Part time
-979,3188,Orlando Volta,DarkRed,1973-04-14,Part time
-980,8571,Anita Soprano,LightPink,2014-04-14,Part time
-981,190,Rosina Aporti,DarkRed,1974-03-13,Part time
-982,26715,Sig. Geronimo Beccaria,Linen,2006-01-19,Part time
-983,20484,Tina Bottigliero,LightPink,2016-04-06,Part time
-984,3113,Bernardo Turati,Orange,2014-09-04,Part time
-985,33280,Sig. Mauro Santi,MediumSlateBlue,2008-01-21,Part time
-986,4312,Sylvia Zola,LightPink,2016-06-14,Part time
-987,39028,Lucrezia Barcaccia,DarkRed,2001-03-29,Part time
-988,17972,Maria Bosio,LightPink,2008-12-04,Part time
-989,7576,Romina Oscuro-Pincherle,MediumSlateBlue,2021-07-05,Part time
-990,4432,Adamo Nonis-Gaiatto,LightPink,1980-06-05,Part time
-991,12572,Sig. Dino Gabrieli,MediumSlateBlue,2006-09-02,Part time
-992,17184,Paride Deledda,LightPink,2006-04-05,Part time
-993,9174,Dott. Priscilla Pasqua,LightPink,2010-04-17,Part time
-994,38836,Antonietta Avogadro,Linen,2019-06-21,Part time
-995,15022,Clelia Borgia,MediumSlateBlue,1996-11-24,Part time
-996,14546,Vanessa Dossi,LightPink,2017-07-04,Part time
-997,7027,Allegra Biagi-Peano,MediumSlateBlue,2016-01-04,Part time
-998,9586,Cirillo Comisso-Vespucci,Linen,2022-01-01,Part time
-999,29800,Ida Curci,Orange,2009-05-23,Part time
+0,27088,Pomponio Boccaccio,DarkGreen,2004-05-02,Full time
+1,1442,Costantino Giradello,FloralWhite,1983-08-13,Full time
+2,19836,Tiziana Martucci-Florio,DarkGreen,1990-02-23,Full time
+3,25299,Dott. Carolina Ferrara,Maroon,1980-04-06,Full time
+4,5780,Silvio Bonaventura,BlueViolet,2006-09-05,Full time
+5,2013,Romeo Goldstein,FloralWhite,1976-06-29,Full time
+6,29560,Romina Marini,BlueViolet,1991-05-15,Full time
+7,34155,Osvaldo Tamborini,DarkGreen,2006-01-04,Full time
+8,6780,Amico Pirelli,FloralWhite,1973-08-19,Full time
+9,14174,Elisa Orengo,BlueViolet,1977-11-29,Full time
+10,13884,Allegra Parmitano-Passalacqua,DarkGreen,1972-05-11,Full time
+11,26192,Donato Fermi,BlueViolet,2019-07-16,Full time
+12,11830,Leopoldo Borromini,Maroon,2009-06-29,Full time
+13,6712,Gianpietro Malacarne,DarkGreen,1988-07-02,Full time
+14,5979,Martino Borrani-Simeoni,Pink,1974-12-26,Full time
+15,34010,Dott. Paolo Pistoletto,Pink,1979-01-03,Full time
+16,4675,Luisa Cattaneo,FloralWhite,1976-05-11,Full time
+17,7856,Ricciotti Conte,Pink,1991-02-18,Full time
+18,7716,Dott. Giorgia Pirelli,BlueViolet,1976-03-24,Full time
+19,11118,Evangelista Moschino,DarkGreen,1992-10-16,Full time
+20,9385,Tonino Vitturi,FloralWhite,2021-12-20,Full time
+21,6596,Giorgia Collina-Gualandi,BlueViolet,2013-04-29,Full time
+22,6009,Dina Novaro,Maroon,1999-02-04,Full time
+23,5190,Sig. Gioffre Faranda,DarkGreen,2003-09-30,Full time
+24,2628,Lidia Lippomano,Pink,1983-07-16,Full time
+25,3085,Arturo Manzoni,Maroon,1984-12-16,Full time
+26,28719,Camilla Cremonesi,Pink,2007-08-18,Full time
+27,8540,Dott. Alfredo Chittolini,DarkGreen,2013-01-05,Full time
+28,3076,Martino Serraglio,Maroon,1975-12-28,Full time
+29,6622,Dott. Fiamma Falier,BlueViolet,1993-11-25,Full time
+30,7185,Sig. Raffaellino Tedesco,Pink,1977-05-09,Full time
+31,4106,Bartolomeo Catalano-Scaduto,Maroon,1988-08-28,Full time
+32,3475,Flora Rismondo,FloralWhite,1971-07-07,Full time
+33,8900,Federico Jovinelli,FloralWhite,1984-02-09,Full time
+34,14386,Fabia Boccioni,BlueViolet,2016-10-10,Full time
+35,26820,Ciro Cannizzaro-Tirabassi,Maroon,2005-01-03,Full time
+36,16325,Donna Ariosto,Maroon,2021-01-06,Full time
+37,2370,Delfino Peranda-Porcellato,Pink,1994-09-14,Full time
+38,25615,Amanda Pedroni,FloralWhite,1991-12-11,Full time
+39,22584,Sig.ra Stefani Toscani,Pink,2021-03-01,Full time
+40,6450,Gioachino Pezzali,Pink,2015-11-24,Full time
+41,728,Serena Priuli-Contrafatto,DarkGreen,1995-07-12,Full time
+42,15387,Antonina Monteverdi,Maroon,1970-05-14,Full time
+43,19131,Geronimo Porcellato,FloralWhite,1977-04-30,Full time
+44,5494,Sig.ra Federica Simeoni,BlueViolet,1991-02-21,Full time
+45,28272,Marisa Curiel,Pink,2020-12-09,Full time
+46,13848,Bettina Pacelli,Maroon,2005-07-24,Full time
+47,6365,Isabella Detti,Maroon,1971-09-26,Full time
+48,20814,Gloria Ferragni,Pink,1982-08-04,Full time
+49,2828,Flora Foconi-Tasca,DarkGreen,1996-05-14,Full time
+50,11766,Franco Franscini,Maroon,1988-05-28,Full time
+51,2973,Adamo Torricelli,Maroon,1973-03-01,Full time
+52,32255,Franco Orengo,Maroon,1974-01-11,Full time
+53,6449,Nicolò Bertoli,Pink,1998-06-04,Full time
+54,16616,Sig. Fulvio Chigi,Pink,1976-02-03,Full time
+55,18342,Stefani Lamborghini,Maroon,2022-10-03,Full time
+56,5044,Flavio Sabbatini,Pink,1999-12-27,Full time
+57,12180,Lucrezia Palladio,FloralWhite,2000-02-10,Full time
+58,5712,Fulvio Basadonna,Pink,1979-08-06,Full time
+59,19347,Olga Valier,BlueViolet,2010-12-08,Full time
+60,27378,Dott. Filippo Emo,DarkGreen,1971-03-23,Full time
+61,102,Hugo Fermi-Battelli,Pink,2019-06-22,Full time
+62,40050,Ottavio Fagotto,Maroon,1992-09-25,Full time
+63,38676,Rosaria Fattori,FloralWhite,1983-08-04,Full time
+64,6628,Ronaldo Nievo-Vanvitelli,Pink,1978-04-12,Full time
+65,3774,Raffaella Gentili-Paolucci,DarkGreen,1989-08-24,Full time
+66,227,Dott. Priscilla Duse,BlueViolet,1980-07-18,Full time
+67,1900,Tina Celentano,DarkGreen,1996-11-21,Full time
+68,9813,Sig.ra Loredana Sforza,BlueViolet,2008-08-22,Full time
+69,6189,Dott. Giulio Vianello,BlueViolet,1981-01-25,Full time
+70,30744,Puccio Salvemini-Salvemini,Maroon,2019-06-09,Full time
+71,34736,Antonino Dulbecco,Pink,1981-03-05,Full time
+72,6921,Elena Morpurgo,Pink,2001-10-31,Full time
+73,1350,Veronica Cilibrasi,Pink,2013-07-28,Full time
+74,33336,Angelica Majorana,FloralWhite,1983-05-28,Full time
+75,23397,Antonia Iannotti,FloralWhite,2003-06-24,Full time
+76,2310,Sante Serraglio,DarkGreen,2003-05-16,Full time
+77,27090,Annamaria Cheda,Pink,1986-08-11,Full time
+78,10665,Ramona Gentili,BlueViolet,2003-07-24,Full time
+79,6854,Michelotto Tremonti-Contarini,DarkGreen,1975-01-24,Full time
+80,32790,Rosalia Pontecorvo,Maroon,2018-05-12,Full time
+81,3286,Claudio Morabito,FloralWhite,1989-08-16,Full time
+82,28420,Lazzaro Telesio,DarkGreen,2002-02-03,Full time
+83,5514,Ninetta Ricci,FloralWhite,1970-12-28,Full time
+84,32675,Isa Mazzeo-Rosiello,DarkGreen,1998-12-19,Full time
+85,3788,Orlando Cossiga,FloralWhite,2008-08-26,Full time
+86,14145,Sophia Nicolucci,DarkGreen,1987-03-15,Full time
+87,35572,Sig.ra Lisa Falloppio,DarkGreen,1992-04-25,Full time
+88,39630,Priscilla Ossani,Pink,2022-07-13,Full time
+89,3239,Vanessa Iannuzzi,DarkGreen,2020-05-06,Full time
+90,14590,Viridiana Rosmini,FloralWhite,1973-06-16,Full time
+91,15592,Susanna Toscani,FloralWhite,1972-04-28,Full time
+92,9380,Berenice Bramante,FloralWhite,1993-07-29,Full time
+93,13826,Sig.ra Marisa Ginese,Maroon,1983-04-09,Full time
+94,2538,Amadeo Boccaccio,DarkGreen,1992-04-01,Full time
+95,27248,Dott. Greca Martinelli,DarkGreen,1983-08-21,Full time
+96,888,Sig.ra Gloria Pizzo,DarkGreen,1972-12-22,Full time
+97,27176,Renata Romano,Pink,2015-10-01,Full time
+98,17188,Sig. Pasqual Nicolini,Maroon,1983-04-02,Full time
+99,26325,Monica Garrone-Cardano,Maroon,2001-05-19,Full time
+100,9213,Imelda Serraglio-Trincavelli,BlueViolet,2017-06-01,Full time
+101,30312,Martina Novaro,BlueViolet,1982-06-03,Full time
+102,2670,Patrizio Bondumier,Pink,1985-03-14,Full time
+103,1872,Viridiana Marenzio,Maroon,1975-08-22,Full time
+104,3732,Giovanni Battaglia,DarkGreen,1992-07-18,Full time
+105,4465,Michele Carriera,BlueViolet,2015-01-25,Full time
+106,29428,Cassandra Gotti,Pink,2001-11-04,Full time
+107,3743,Giancarlo Colletti,DarkGreen,1997-04-07,Full time
+108,9489,Roberto Infantino,BlueViolet,2009-01-03,Full time
+109,23778,Puccio Palladio,Maroon,1990-05-29,Full time
+110,20910,Orazio Broschi,BlueViolet,1995-10-03,Full time
+111,29853,Simonetta Scarpetta,BlueViolet,1980-12-25,Full time
+112,48125,Dott. Ruggero Comboni,DarkGreen,1984-06-15,Full time
+113,6525,Sig.ra Lilla Cardano,DarkGreen,1973-01-11,Full time
+114,6846,Tullio Bossi,Pink,1992-07-29,Full time
+115,30890,Arnulfo Gianetti-Bossi,FloralWhite,2012-11-04,Full time
+116,32,Dott. Alderano Grimani,FloralWhite,1996-05-20,Full time
+117,136,Gianfranco Paltrinieri,Pink,2003-06-10,Full time
+118,9465,Simonetta Battelli,FloralWhite,2002-10-26,Full time
+119,1344,Lisa Bellò,FloralWhite,1999-06-05,Full time
+120,40395,Dott. Victoria Vianello,Maroon,2021-04-26,Full time
+121,36510,Fiorenzo Togliatti,FloralWhite,1991-07-17,Full time
+122,20328,Niccolò Beffa,Maroon,1991-09-06,Full time
+123,16424,Lina Bartoli-Regge,BlueViolet,1976-05-10,Full time
+124,17100,Imelda Alfieri-Boitani,FloralWhite,1992-11-24,Full time
+125,1321,Claudio Maglio,Maroon,2007-09-01,Full time
+126,18705,Guido Giunti-Soranzo,FloralWhite,1985-03-30,Full time
+127,1145,Benedetto Casale,DarkGreen,2002-01-29,Full time
+128,15912,Giuliano Bataglia,Pink,1998-12-10,Full time
+129,11505,Sig. Alfio Acerbi,Pink,2011-01-10,Full time
+130,9580,Paolo Lopresti-Spadafora,BlueViolet,1994-01-03,Full time
+131,8014,Lidia Cafarchia,BlueViolet,2015-04-14,Full time
+132,29056,Sophia Prodi,FloralWhite,1982-05-07,Full time
+133,28436,Daniele Pascarella,FloralWhite,2009-01-11,Full time
+134,4704,Dott. Rita Doglioni,Maroon,1977-12-10,Full time
+135,20043,Martino Barillaro,DarkGreen,1993-08-20,Full time
+136,28445,Gioacchino Chiesa,Maroon,1990-10-03,Full time
+137,15006,Sig.ra Romana Giorgetti,BlueViolet,2017-03-23,Full time
+138,19192,Benito Mascagni,FloralWhite,1976-04-11,Full time
+139,3371,Piersanti Taliani,Maroon,2014-07-31,Full time
+140,34275,Licia Oscuro-Iannelli,FloralWhite,2003-12-01,Full time
+141,8100,Dionigi Gigli,DarkGreen,2000-04-01,Full time
+142,4102,Giosuè Cabibbo,FloralWhite,1974-12-10,Full time
+143,7482,Benito Galvani,Maroon,1991-02-20,Full time
+144,8537,Ettore Iacobucci-Crespi,FloralWhite,1981-07-24,Full time
+145,110,Francesca Lippomano,BlueViolet,2009-07-23,Full time
+146,6156,Gioffre Argan,Maroon,2012-04-16,Full time
+147,1462,Monica Moccia,DarkGreen,1982-04-09,Full time
+148,18357,Lamberto Celentano,BlueViolet,1995-06-22,Full time
+149,17650,Ramona Barcaccia-Morricone,FloralWhite,2002-02-21,Full time
+150,9784,Victoria Manacorda-Toso,DarkGreen,2017-02-03,Full time
+151,19650,Dott. Fortunata Chiaramonte,DarkGreen,1980-12-13,Full time
+152,33325,Dott. Dante Cabrini,Maroon,2020-02-25,Full time
+153,2658,Orazio Pasolini,FloralWhite,2004-06-24,Full time
+154,7661,Allegra Borgia,DarkGreen,1975-12-02,Full time
+155,7101,Gioachino Norbiato,Maroon,1996-11-29,Full time
+156,27508,Nadia Morricone,FloralWhite,2020-06-24,Full time
+157,31536,Sig.ra Barbara Canali,Pink,1972-12-17,Full time
+158,14590,Simonetta Perini,DarkGreen,2002-07-26,Full time
+159,18135,Antonella Galtarossa,DarkGreen,2021-12-16,Full time
+160,44240,Sig. Gianpietro Trillini,Maroon,2008-01-18,Full time
+161,27180,Baccio Magnani,Maroon,2015-09-29,Full time
+162,3175,Bernardo Guinizzelli,FloralWhite,1982-08-01,Full time
+163,10760,Stefani Pisani-Franzese,FloralWhite,2009-03-15,Full time
+164,49,Laura Scarponi,Maroon,1997-10-23,Full time
+165,11840,Ludovico Frescobaldi,DarkGreen,1980-01-29,Full time
+166,902,Marco Zacchia,DarkGreen,1997-08-29,Full time
+167,16528,Luigina Gianinazzi,BlueViolet,2020-09-18,Full time
+168,6515,Tatiana Porcellato,BlueViolet,2015-07-31,Full time
+169,19690,Dott. Romolo Grifeo,DarkGreen,1995-02-17,Full time
+170,12894,Clelia Campano-Farnese,DarkGreen,1983-03-24,Full time
+171,8312,Caterina Tarantini,DarkGreen,1984-08-25,Full time
+172,17898,Amico Columbo,Maroon,2004-01-14,Full time
+173,18774,Panfilo Venturi,BlueViolet,2019-06-20,Full time
+174,968,Antonino Scaramucci,Maroon,2017-08-15,Full time
+175,3764,Sig. Alberico Caccianemico,DarkGreen,2001-05-27,Full time
+176,19910,Silvio Garzoni,BlueViolet,2002-08-17,Full time
+177,34130,Sig. Baccio Bosio,BlueViolet,2011-01-27,Full time
+178,10306,Danilo Caccioppoli,FloralWhite,1975-06-16,Full time
+179,29460,Aurora Favata-Deledda,FloralWhite,2015-01-12,Full time
+180,6935,Amanda Fuseli,Maroon,1983-01-30,Full time
+181,44,Pierangelo Passalacqua,BlueViolet,1982-11-11,Full time
+182,19844,Alfredo Zecchini,Pink,1995-02-13,Full time
+183,17340,Sig.ra Patrizia Canil,Maroon,2019-01-18,Full time
+184,7064,Lucia Sabatini,DarkGreen,2020-09-30,Full time
+185,7830,Victoria Versace-Pacelli,Pink,1998-04-02,Full time
+186,2805,Gianna Zacchia-Virgilio,DarkGreen,1986-12-03,Full time
+187,45265,Mirko Curatoli-Antonucci,FloralWhite,2005-03-08,Full time
+188,1772,Bettina Cainero,FloralWhite,1977-11-25,Full time
+189,4148,Nicoletta Fiorucci,Maroon,1995-06-05,Full time
+190,15392,Antonia Caccioppoli-Mazzeo,BlueViolet,1987-06-27,Full time
+191,5956,Gian Corcos-Fracci,FloralWhite,1981-08-31,Full time
+192,37795,Goffredo Marsili,Pink,2007-10-10,Full time
+193,19104,Tiziana Druso,FloralWhite,1985-08-10,Full time
+194,1928,Dott. Caterina Gregorio,DarkGreen,1974-11-21,Full time
+195,19544,Dott. Donatello Fracci,BlueViolet,2015-08-15,Full time
+196,11100,Ornella Boaga,BlueViolet,1981-03-09,Full time
+197,31655,Mercedes Tosi-Benussi,Maroon,2005-03-25,Full time
+198,3598,Gloria Cremonesi,FloralWhite,1997-03-06,Full time
+199,32644,Ivo Marini-Petruzzi,BlueViolet,1977-05-09,Full time
+200,13688,Ottavio Vespucci,DarkGreen,1979-05-06,Full time
+201,2856,Sig.ra Ninetta Gatto,BlueViolet,2020-12-02,Full time
+202,2997,Paoletta Stradivari,BlueViolet,2021-08-13,Full time
+203,22044,Adriano Ariasso,FloralWhite,2015-01-21,Full time
+204,1072,Amadeo Pedersoli,FloralWhite,1983-02-18,Full time
+205,1127,Agnolo Taliani,Pink,1979-06-22,Full time
+206,18710,Sophia Zaguri,Maroon,1983-08-03,Full time
+207,715,Eugenia Catalano,DarkGreen,1987-10-21,Full time
+208,3974,Sig.ra Rossana Basadonna,DarkGreen,1996-04-13,Full time
+209,24654,Sig. Umberto Stradivari,FloralWhite,2020-10-08,Full time
+210,18378,Anita Camicione,BlueViolet,1977-04-27,Full time
+211,34172,Giampiero Lollobrigida,Maroon,2006-02-28,Full time
+212,6286,Giacomo Comolli,FloralWhite,1970-03-12,Full time
+213,582,Annalisa Luxardo-Gabrieli,Pink,2002-11-01,Full time
+214,1347,Laura Berengario,DarkGreen,1990-03-17,Full time
+215,35000,Sig.ra Marina Speri,Maroon,2003-06-27,Full time
+216,1322,Carolina Vergerio,Pink,1990-07-05,Full time
+217,11758,Annibale Nicoletti,DarkGreen,1984-08-27,Full time
+218,7345,Mirko Satta,DarkGreen,1999-08-24,Full time
+219,9476,Donato Agostinelli,FloralWhite,1996-09-09,Full time
+220,7623,Michelangelo Telesio,Maroon,2007-11-23,Full time
+221,6315,Leonardo Marsili,DarkGreen,1971-07-17,Full time
+222,6111,Sole Mantegna,Maroon,1981-07-06,Full time
+223,782,Vittorio Scaramucci,Maroon,1987-11-26,Full time
+224,1180,Ippazio Semitecolo,FloralWhite,1975-07-26,Full time
+225,22470,Aldo Schicchi-Luria,Pink,2008-07-14,Full time
+226,18945,Federigo Capecchi,Pink,2021-07-23,Full time
+227,28068,Michele Soranzo,Maroon,2006-05-21,Full time
+228,15632,Carla Murialdo-Foconi,Maroon,1991-07-23,Full time
+229,8570,Zaira Aloisio,Pink,1988-05-14,Full time
+230,3618,Gianni Pederiva,Maroon,1974-01-13,Full time
+231,3366,Claudia Tamburello,Pink,2003-02-26,Full time
+232,13950,Ida Santi,Pink,1999-07-09,Full time
+233,7924,Fiorino Zaccardo,DarkGreen,1982-08-29,Full time
+234,23823,Francesco Cicilia,BlueViolet,1989-11-10,Full time
+235,20825,Massimo Bombieri-Lombardo,FloralWhite,2012-02-17,Full time
+236,6565,Roman Fischetti,BlueViolet,1998-11-18,Full time
+237,27228,Gaspare Prati,Maroon,2019-02-01,Full time
+238,6468,Armando Ariasso,BlueViolet,2019-11-24,Full time
+239,29680,Roberta Papafava,FloralWhite,2013-09-01,Full time
+240,26445,Gionata Baggio,FloralWhite,2021-07-22,Full time
+241,5843,Aldo Briccialdi,BlueViolet,2006-10-16,Full time
+242,536,Jacopo Monte,FloralWhite,1977-08-20,Full time
+243,5420,Sig.ra Melina Natta,FloralWhite,1979-09-30,Full time
+244,7042,Elmo Renault,Maroon,1990-06-03,Full time
+245,9504,Sig.ra Carolina Antonelli,FloralWhite,1985-07-06,Full time
+246,39084,Dott. Lidia Gargallo,Pink,1973-05-19,Full time
+247,8629,Fabio Bonatti,DarkGreen,2016-04-14,Full time
+248,2192,Lilla Necci,Maroon,1982-04-17,Full time
+249,8700,Sig.ra Tatiana Ughi,BlueViolet,2003-05-16,Full time
+250,17610,Eliana Mortati,DarkGreen,2003-01-15,Full time
+251,3015,Flavia Segni,DarkGreen,2021-05-04,Full time
+252,28887,Alessandra Galtarossa,Maroon,2018-03-11,Full time
+253,10311,Ornella Salvo,Pink,2022-07-27,Full time
+254,109,Piero Battelli,DarkGreen,1981-07-11,Full time
+255,20428,Sig. Romolo Cardano,Pink,1995-01-27,Full time
+256,7981,Giuseppina Cianciolo,BlueViolet,2017-05-09,Full time
+257,14832,Sig.ra Loretta Armellini,Pink,1971-10-04,Full time
+258,1588,Piermaria Cossiga,Maroon,1976-07-19,Full time
+259,13525,Pompeo Crisafulli,Pink,1998-02-07,Full time
+260,39755,Giuliana Savorgnan,Maroon,2015-07-27,Full time
+261,2791,Sig. Gioacchino Rapisardi,Pink,1974-06-02,Full time
+262,9879,Sante Biagi,FloralWhite,2007-11-26,Full time
+263,5701,Bartolomeo Federico,BlueViolet,1984-07-22,Full time
+264,12930,Sig. Piersanti Lettiere,Maroon,1999-01-21,Full time
+265,39664,Fabio Pedrazzini,DarkGreen,2012-10-20,Full time
+266,28472,Dott. Mercedes Gatto,Pink,1995-01-05,Full time
+267,15756,Fabrizio Scalfaro,DarkGreen,2000-10-12,Full time
+268,25404,Elena Zamengo,FloralWhite,2007-09-30,Full time
+269,16466,Augusto Staglieno,Pink,1989-09-07,Full time
+270,35856,Giulia Ferrazzi,FloralWhite,2011-09-10,Full time
+271,5148,Dott. Bianca Falier,FloralWhite,2014-08-23,Full time
+272,17808,Gioachino Alonzi-Papetti,Maroon,2020-03-08,Full time
+273,13004,Rossana Togliatti,Pink,2004-01-26,Full time
+274,30705,Jacopo Bianchini,FloralWhite,2000-03-26,Full time
+275,28445,Dott. Rosa Chigi,Maroon,2008-05-03,Full time
+276,10644,Sig. Ranieri Fracci,Pink,1974-03-16,Full time
+277,3342,Romina Morabito-Piacentini,FloralWhite,2005-11-16,Full time
+278,21807,Corrado Saraceno,Pink,1972-12-02,Full time
+279,9459,Elmo Innocenti,BlueViolet,1983-11-08,Full time
+280,14428,Gino Caruso-Boccherini,Maroon,1992-02-17,Full time
+281,8613,Stefania Caetani,Pink,1986-07-20,Full time
+282,29615,Lucia Scalera-Barillaro,BlueViolet,2019-09-13,Full time
+283,11488,Eraldo Bettin-Borromeo,DarkGreen,2001-06-11,Full time
+284,5973,Nicola Bossi,Maroon,1985-03-21,Full time
+285,4758,Sig. Simone Scaramucci,DarkGreen,2016-04-16,Full time
+286,8912,Hugo Riccardi,BlueViolet,2015-01-05,Full time
+287,3804,Morena Sonnino,FloralWhite,1987-03-24,Full time
+288,24213,Temistocle Virgilio,DarkGreen,2007-10-20,Full time
+289,30050,Griselda Sagnelli,FloralWhite,1978-01-29,Full time
+290,33064,Ottone Travia,Pink,1977-07-22,Full time
+291,18232,Calogero Pincherle,Pink,1989-08-24,Full time
+292,9377,Costantino Tasso,Pink,1979-03-08,Full time
+293,8576,Sig.ra Concetta Gualandi,Maroon,1986-07-30,Full time
+294,39640,Giustino Columbo,Pink,1984-11-05,Full time
+295,24584,Adriana Montanariello,Maroon,1978-11-26,Full time
+296,35868,Iolanda Vattimo,Pink,2016-02-24,Full time
+297,11968,Pasquale Chinnici,DarkGreen,1975-11-30,Full time
+298,44850,Valeria Mozart,DarkGreen,1973-03-07,Full time
+299,34360,Dott. Emilio Sauli,BlueViolet,1970-05-22,Full time
+300,27616,Ronaldo Luciani,Maroon,2007-03-14,Full time
+301,11882,Elvira Finotto-Golino,DarkGreen,1998-01-12,Full time
+302,4572,Nicoletta Cuomo,Pink,1979-04-09,Full time
+303,44400,Alderano Tosi,FloralWhite,1985-09-12,Full time
+304,9738,Nedda Esposito,FloralWhite,1994-03-06,Full time
+305,1193,Alina Lucchesi,FloralWhite,1998-06-23,Full time
+306,18750,Fabrizia Babato,BlueViolet,2003-12-01,Full time
+307,26440,Dott. Erika Interiano,Maroon,2003-03-29,Full time
+308,39584,Lodovico Panatta,FloralWhite,1981-11-06,Full time
+309,10655,Vittorio Mezzetta,DarkGreen,2018-12-04,Full time
+310,21472,Gianpaolo Maggioli-Broschi,BlueViolet,1987-10-06,Full time
+311,17484,Tonia Carnera,BlueViolet,2008-08-08,Full time
+312,40485,Evangelista Cabibbo,Pink,1992-04-18,Full time
+313,11950,Sig. Bernardo Rensi,Maroon,2020-08-10,Full time
+314,19950,Rodolfo Bongiorno,Maroon,2004-04-07,Full time
+315,27642,Rosa Palmisano,BlueViolet,2012-02-21,Full time
+316,9081,Luigina Pininfarina,Maroon,1979-08-11,Full time
+317,1786,Paloma Calvo-Tonisto,Maroon,1986-09-16,Full time
+318,573,Susanna Gianetti,Pink,1988-01-06,Full time
+319,4006,Melissa Trombetta,BlueViolet,1987-09-19,Full time
+320,9115,Nanni Cristoforetti,Maroon,2020-12-12,Full time
+321,8163,Martino Prati,BlueViolet,1996-08-13,Full time
+322,39084,Amanda Beffa,FloralWhite,1971-11-17,Full time
+323,10624,Bettina Petralli,DarkGreen,1974-11-10,Full time
+324,23238,Sig.ra Maura Palmisano,Pink,2001-04-18,Full time
+325,33645,Annamaria Savorgnan-Luxardo,DarkGreen,1995-03-28,Full time
+326,24832,Giampaolo Bernardini,Pink,1990-09-15,Full time
+327,5660,Ermenegildo Pellico,DarkGreen,1996-11-24,Full time
+328,3039,Marissa Collodi,BlueViolet,2014-02-02,Full time
+329,14748,Nedda Pincherle,Maroon,2017-11-30,Full time
+330,38730,Ottone Fantozzi,Pink,1986-01-13,Full time
+331,10725,Silvia Caccioppoli,Pink,1971-03-30,Full time
+332,39188,Pasquale Bartoli-Onio,DarkGreen,1972-06-02,Full time
+333,6111,Nicoletta Parisi,DarkGreen,1991-12-23,Full time
+334,25056,Lilla Aulenti,Pink,1972-12-18,Full time
+335,33725,Olga Olivetti,Maroon,2008-05-31,Full time
+336,22256,Priscilla Ubaldi-Bombieri,FloralWhite,1981-04-11,Full time
+337,39140,Allegra Pennetta,BlueViolet,1975-01-16,Full time
+338,19714,Gioele Malpighi,BlueViolet,2001-01-29,Full time
+339,3594,Giorgia Bonomo-Rossini,BlueViolet,2009-11-09,Full time
+340,27556,Renata Borzomì,Maroon,2006-10-08,Full time
+341,19334,Laureano Gotti-Infantino,DarkGreen,2006-05-28,Full time
+342,1239,Michela Sagnelli,Maroon,1973-06-03,Full time
+343,6979,Bianca Porcellato,Pink,2014-11-12,Full time
+344,34068,Dott. Lando Interminei,Maroon,1974-05-10,Full time
+345,728,Giuseppina Fioravanti,DarkGreen,1984-04-11,Full time
+346,16368,Carolina Ferrara-Zola,Maroon,1996-02-23,Full time
+347,3360,Caterina Spinola,Maroon,1982-09-05,Full time
+348,7072,Gianluca Pareto,DarkGreen,1991-08-25,Full time
+349,12372,Valerio Ravaglioli,Maroon,2006-11-01,Full time
+350,12966,Rita Iannucci,Pink,2013-11-27,Full time
+351,28115,Patrizio Esposito,Maroon,1981-01-04,Full time
+352,38440,Roman Babbo,FloralWhite,1983-05-05,Full time
+353,6038,Antonella Rizzo,FloralWhite,2021-08-21,Full time
+354,15408,Elvira Flaiano-Cocci,DarkGreen,1973-08-22,Full time
+355,29864,Dott. Elvira Grimani,Maroon,1992-05-13,Full time
+356,4752,Gianfrancesco Bottigliero,Pink,1985-08-05,Full time
+357,19448,Ciro Cherubini,BlueViolet,1984-07-13,Full time
+358,7422,Cristina Interiano,DarkGreen,1999-01-20,Full time
+359,29056,Greca Malipiero,Pink,1994-12-29,Full time
+360,14378,Michelotto Marenzio,Pink,2013-11-15,Full time
+361,6462,Ruggiero Rastelli-Filangieri,DarkGreen,1981-11-04,Full time
+362,28920,Lucia Vergassola,Maroon,1989-04-28,Full time
+363,28701,Gianna Bosurgi-Bellò,DarkGreen,1970-08-20,Full time
+364,11162,Lolita Giulietti,Maroon,1974-01-04,Full time
+365,47120,Luigi Micheletti,FloralWhite,2012-09-14,Full time
+366,38312,Virgilio Babato,DarkGreen,1986-08-02,Full time
+367,6045,Graziella Mazzi,DarkGreen,2006-09-19,Full time
+368,16312,Loretta Boldù,BlueViolet,1974-10-13,Full time
+369,25625,Fedele Scarpetta,DarkGreen,2002-05-06,Full time
+370,12777,Umberto Trombetta,Pink,1987-06-27,Full time
+371,10426,Raimondo Canova,Pink,2012-05-12,Full time
+372,5650,Dott. Sophia Comolli,Maroon,1984-12-30,Full time
+373,1244,Eliana Fallaci-Sokolov,Maroon,1990-09-02,Full time
+374,31085,Marco Gioberti,BlueViolet,1989-07-30,Full time
+375,47770,Fedele Morellato,FloralWhite,1975-03-07,Full time
+376,3080,Giacobbe Bottaro,Pink,1971-06-05,Full time
+377,12748,Tiziana Dallapé-Crisafulli,BlueViolet,1987-02-22,Full time
+378,9304,Eliana Tartini,DarkGreen,1999-02-19,Full time
+379,15718,Dott. Gianna Musatti,Maroon,1986-01-19,Full time
+380,38868,Giorgia Garzoni,FloralWhite,2015-12-24,Full time
+381,23085,Raffaella Querini-Surian,FloralWhite,2021-01-05,Full time
+382,9645,Fiamma Squarcione,DarkGreen,2001-10-26,Full time
+383,8475,Sig.ra Clelia Orsini,DarkGreen,1984-04-01,Full time
+384,34180,Dott. Salvi Endrizzi,DarkGreen,2008-06-23,Full time
+385,21807,Gianna Broschi,Pink,2007-04-09,Full time
+386,11445,Dott. Gianpietro Moretti,DarkGreen,1998-07-14,Full time
+387,4388,Sebastiano Comolli-Montalcini,FloralWhite,1988-09-14,Full time
+388,10116,Raimondo Valentino-Verga,DarkGreen,1992-08-12,Full time
+389,6036,Federica Stein,FloralWhite,1986-05-12,Full time
+390,1907,Sig. Gianpaolo Spinelli,FloralWhite,1976-11-29,Full time
+391,7761,Sylvia Tirabassi,Maroon,1976-11-17,Full time
+392,32196,Ludovica Sauro,DarkGreen,1973-05-14,Full time
+393,7922,Bernardo Detti,Maroon,2017-05-25,Full time
+394,2574,Susanna Versace-Zaccardo,Maroon,2005-09-08,Full time
+395,7146,Gioffre Tarantino,BlueViolet,2016-06-14,Full time
+396,20630,Mauro Salvemini,Pink,1975-02-20,Full time
+397,29757,Delfino Contarini,Pink,1996-08-06,Full time
+398,3372,Antonino Ferrabosco,Maroon,2005-11-06,Full time
+399,2208,Donato Argan,FloralWhite,2003-09-25,Full time
+400,22071,Aldo Bottigliero,Maroon,1983-01-24,Full time
+401,21228,Paola Coppola,BlueViolet,1989-12-10,Full time
+402,21420,Corrado Gremese,Pink,1981-06-01,Full time
+403,1502,Pietro Tuzzolino,Maroon,2003-11-05,Full time
+404,7146,Marco Merisi,DarkGreen,1995-12-08,Full time
+405,27915,Rosa Cesarotti,FloralWhite,2021-09-20,Full time
+406,18,Paride Pepe-Corcos,DarkGreen,1976-07-21,Full time
+407,27222,Dott. Irma Finetti,FloralWhite,1997-04-29,Full time
+408,19164,Fiorino Caccianemico,Maroon,1991-07-21,Full time
+409,5652,Piermaria Pisano,BlueViolet,2012-06-02,Full time
+410,28473,Dott. Filippa Toldo,BlueViolet,1991-08-27,Full time
+411,30945,Lorenzo Majorana,Pink,1973-01-18,Full time
+412,536,Rocco Venier,BlueViolet,1986-06-11,Full time
+413,2565,Rodolfo Camiscione,DarkGreen,2018-04-07,Full time
+414,191,Lucrezia Gramsci,FloralWhite,1998-01-09,Full time
+415,21942,Dario Ponti-Catalano,FloralWhite,2006-07-01,Full time
+416,17769,Rossana Boito,Pink,1978-04-18,Full time
+417,22100,Sig. Alessandro Monteverdi,Pink,1971-11-22,Full time
+418,32324,Benedetto Alighieri,Pink,1983-08-25,Full time
+419,2104,Giacinto Armellini,DarkGreen,1987-05-17,Full time
+420,9944,Mauro Corcos,DarkGreen,1984-06-30,Full time
+421,2976,Gianpietro Tagliafierro,Maroon,1998-03-09,Full time
+422,7516,Marissa Garobbio,BlueViolet,1976-08-11,Full time
+423,4144,Adelmo Nosiglia,Pink,1991-01-16,Full time
+424,13953,Renzo Spinelli-Pennetta,BlueViolet,1981-01-24,Full time
+425,8605,Romana Niscoromni,FloralWhite,2017-09-03,Full time
+426,26577,Lidia Ligorio-Armellini,Pink,2015-08-20,Full time
+427,35296,Pierina Balbi,Pink,1979-05-12,Full time
+428,30570,Bettina Sanguineti-Abbagnale,BlueViolet,2004-10-02,Full time
+429,10864,Benito Longhena,BlueViolet,2012-04-16,Full time
+430,26284,Rossana Innocenti,Maroon,1990-01-13,Full time
+431,22215,Calcedonio Borroni,DarkGreen,2008-10-21,Full time
+432,14394,Marcella Mascheroni,BlueViolet,1982-09-04,Full time
+433,23900,Antonello Cicala,Maroon,2017-06-13,Full time
+434,6850,Silvestro Comisso,Maroon,1989-09-15,Full time
+435,3264,Giovanna Vivaldi,BlueViolet,2021-05-24,Full time
+436,5384,Donatello Valguarnera-Capone,BlueViolet,1987-07-01,Full time
+437,3684,Dott. Fausto Buonauro,DarkGreen,2020-10-25,Full time
+438,267,Morena Pozzecco,Pink,2002-12-18,Full time
+439,564,Sig.ra Adele Delle,Pink,2013-09-15,Full time
+440,7015,Gianluigi Vercelloni,Maroon,1996-08-15,Full time
+441,24788,Gastone Vecoli,FloralWhite,1989-03-24,Full time
+442,3610,Renata Borrani,Pink,1998-04-11,Full time
+443,18705,Melina Norbiato-Rensi,DarkGreen,2004-01-18,Full time
+444,10094,Angelica Norbiato,FloralWhite,2000-05-24,Full time
+445,496,Dott. Michelotto Soffici,Pink,1992-04-04,Full time
+446,8808,Dott. Flavia Zoppetti,Pink,1999-10-02,Full time
+447,17038,Ansaldo Golgi,FloralWhite,1994-06-29,Full time
+448,21212,Micheletto Lerner,Maroon,2013-01-05,Full time
+449,5226,Maria Casale,Maroon,1986-11-23,Full time
+450,17756,Arnaldo Einaudi,Maroon,2016-12-10,Full time
+451,28928,Piergiuseppe Respighi,DarkGreen,2012-10-17,Full time
+452,19080,Rosina Dallara,Maroon,1983-10-21,Full time
+453,5523,Ramona Turchi,BlueViolet,2010-12-05,Full time
+454,18960,Gustavo Passalacqua,Maroon,1970-09-27,Full time
+455,14714,Carolina Mazzeo,DarkGreen,2004-03-12,Full time
+456,7334,Annetta Zoppetti,DarkGreen,2001-07-28,Full time
+457,4670,Sig. Graziano Sforza,DarkGreen,2007-12-07,Full time
+458,13256,Galasso Morlacchi,Maroon,1983-11-07,Full time
+459,5756,Sig. Giampiero Prati,BlueViolet,1972-01-10,Full time
+460,17532,Alessia Golgi-Dallara,FloralWhite,2020-03-03,Full time
+461,5441,Ubaldo Romiti,Pink,2000-08-10,Full time
+462,25865,Federica Cavanna,Pink,1987-10-30,Full time
+463,6902,Ugo Scotti,Pink,2020-03-04,Full time
+464,16968,Dott. Roberto Naccari,DarkGreen,2008-12-31,Full time
+465,1790,Agnolo Lerner,FloralWhite,2018-05-24,Full time
+466,23241,Adriano Serlupi,Maroon,1978-03-19,Full time
+467,42525,Sig. Enrico Belletini,FloralWhite,1990-02-28,Full time
+468,12330,Zaira Bataglia-Miniati,FloralWhite,1990-07-15,Full time
+469,14022,Enzio Comisso,Maroon,2022-05-09,Full time
+470,25720,Nedda Andreotti,Maroon,1986-06-24,Full time
+471,28090,Girolamo Leopardi,DarkGreen,2019-03-12,Full time
+472,17496,Antonietta Cutrufo,BlueViolet,2003-03-25,Full time
+473,653,Sig.ra Melania Zampa,FloralWhite,1970-08-19,Full time
+474,42595,Gaspare Speri-Lancisi,Pink,1979-08-04,Full time
+475,27048,Livia Bompiani,DarkGreen,2006-06-27,Full time
+476,14670,Germana Bonaventura,Pink,2008-03-12,Full time
+477,5286,Valeria Cicala,BlueViolet,1987-08-11,Full time
+478,40600,Paola Agostini-Gozzano,Maroon,1992-04-09,Full time
+479,44795,Sig.ra Annamaria Lupo,DarkGreen,1993-10-14,Full time
+480,7497,Arnulfo Adinolfi-Barcaccia,DarkGreen,1993-09-17,Full time
+481,27104,Fabrizio Marcacci-Gianvecchio,FloralWhite,2011-11-26,Full time
+482,9211,Concetta Scandone,Maroon,1996-09-02,Full time
+483,1421,Virginia Durante,Maroon,2014-08-06,Full time
+484,7304,Donatella Greggio,Pink,1978-11-02,Full time
+485,1909,Aurora Gozzano,Pink,1978-10-02,Full time
+486,3231,Bianca Villarosa,BlueViolet,2005-03-25,Full time
+487,5754,Dott. Flora Trillini,Maroon,1995-07-17,Full time
+488,22096,Dott. Romolo Cossiga,FloralWhite,2002-09-02,Full time
+489,31340,Raffaellino Vergerio-Bocelli,Pink,1992-06-13,Full time
+490,48935,Sig.ra Lina Boezio,Pink,1983-04-29,Full time
+491,31344,Giulio Rinaldi,Maroon,2014-10-23,Full time
+492,38060,Gioele Morlacchi,BlueViolet,1980-08-24,Full time
+493,8347,Amico Missoni,DarkGreen,1976-05-30,Full time
+494,30375,Livia Gentileschi,FloralWhite,1993-02-25,Full time
+495,4482,Raffaello Rizzo,Maroon,2018-07-30,Full time
+496,12333,Rosaria Errani,Maroon,1993-03-26,Full time
+497,27230,Girolamo Columbo,Maroon,1984-04-11,Full time
+498,19576,Caterina Ioppi,Maroon,2019-02-17,Full time
+499,3392,Ottavio Balla,Maroon,1974-12-20,Full time
+500,6438,Federica Brenna,Pink,2019-06-19,Half time
+501,15056,Sig.ra Maria Venditti,FloralWhite,2002-09-13,Half time
+502,11104,Cecilia Vattimo,Maroon,1976-10-17,Half time
+503,39016,Dott. Griselda Taliercio,BlueViolet,1990-05-05,Half time
+504,37815,Luciana Sauro,Pink,1999-11-30,Half time
+505,8391,Gaetano Caffarelli,DarkGreen,1979-05-16,Half time
+506,7092,Lidia Turchetta,FloralWhite,2009-09-24,Half time
+507,31728,Sig.ra Iolanda Perini,BlueViolet,1974-04-28,Half time
+508,3908,Sig. Goffredo Sanguineti,Pink,2010-09-23,Half time
+509,7796,Carmelo Calvo-Trevisani,FloralWhite,1998-12-15,Half time
+510,5406,Gaetano Carfagna,Pink,2018-08-17,Half time
+511,1500,Adriano Garzoni,BlueViolet,2012-03-23,Half time
+512,10620,Sig. Fredo Varano,Maroon,1995-09-09,Half time
+513,9928,Gaetano Prodi,BlueViolet,2018-08-13,Half time
+514,6524,Sig. Armando Vittadello,DarkGreen,2000-07-26,Half time
+515,22856,Marta Cavalcanti,DarkGreen,2000-05-08,Half time
+516,19688,Lodovico Canali,BlueViolet,1998-02-28,Half time
+517,12723,Giuseppe Columbo,FloralWhite,2012-02-09,Half time
+518,4563,Dott. Franco Tamburi,DarkGreen,1986-02-11,Half time
+519,5348,Dott. Imelda Pacomio,Pink,2013-12-29,Half time
+520,7629,Arnulfo Filogamo,BlueViolet,1993-07-11,Half time
+521,9699,Fernanda Asmundo-Camilleri,Maroon,2018-08-03,Half time
+522,7090,Sig.ra Isabella Zanichelli,BlueViolet,2003-06-24,Half time
+523,49675,Laura Zoppetti,BlueViolet,1986-03-09,Half time
+524,24504,Guarino Civaschi,BlueViolet,1992-11-27,Half time
+525,1648,Sig.ra Germana Sraffa,BlueViolet,1995-10-01,Half time
+526,21252,Sergius Trentin,DarkGreen,2021-07-09,Half time
+527,11350,Allegra Agazzi,Maroon,2021-05-01,Half time
+528,7185,Anita Luxardo,Maroon,1974-10-23,Half time
+529,13584,Adele Capecchi,Maroon,1991-02-19,Half time
+530,8243,Renzo Vigliotti,BlueViolet,1986-02-28,Half time
+531,21110,Sig. Livio Giolitti,Maroon,2006-01-02,Half time
+532,3273,Piersanti Brugnaro,Maroon,1996-02-06,Half time
+533,22314,Maria Vanvitelli,Maroon,1984-03-13,Half time
+534,11020,Temistocle Turchi,DarkGreen,1986-12-17,Half time
+535,35668,Silvio Tartini,BlueViolet,1986-09-27,Half time
+536,2595,Alessia Iannuzzi,DarkGreen,1977-01-14,Half time
+537,26091,Marisa Gangemi,Maroon,1987-09-30,Half time
+538,5619,Daria Battaglia,FloralWhite,1998-02-19,Half time
+539,18442,Torquato Scarfoglio,FloralWhite,1991-09-23,Half time
+540,17832,Angelina Bersani,BlueViolet,2016-01-29,Half time
+541,3524,Mauro Errigo,Maroon,1998-02-05,Half time
+542,16705,Eugenia Capuana,BlueViolet,1991-11-06,Half time
+543,55,Bettina Peano,DarkGreen,2017-12-24,Half time
+544,6372,Michele Saraceno,Pink,2000-02-28,Half time
+545,37900,Giuliana Roth,DarkGreen,1981-05-08,Half time
+546,4150,Nedda Gritti,BlueViolet,2018-04-27,Half time
+547,29845,Marcantonio Sbarbaro,FloralWhite,1970-06-24,Half time
+548,5128,Michelotto Gangemi,Pink,2016-01-23,Half time
+549,17430,Ignazio Brancaccio,Pink,2003-01-05,Half time
+550,21462,Donatella Moneta,Maroon,2016-04-02,Half time
+551,6292,Arturo Satriani,BlueViolet,1980-11-30,Half time
+552,10490,Alphons Filippelli,FloralWhite,1972-08-05,Half time
+553,7149,Eva Sabbatini-Avogadro,Maroon,2006-07-06,Half time
+554,10228,Sig.ra Graziella Casaleggio,BlueViolet,1971-01-26,Half time
+555,1716,Bianca Anguissola-Pace,Pink,2008-03-30,Half time
+556,6928,Calogero Pontecorvo,Pink,2020-02-22,Half time
+557,29373,Claudia Conti,DarkGreen,2017-10-08,Half time
+558,476,Giulietta Ceci,FloralWhite,1994-03-25,Half time
+559,26046,Gionata Marconi,FloralWhite,2020-01-21,Half time
+560,4062,Cassandra Grasso,Pink,1977-04-30,Half time
+561,39850,Donatello Barcella,DarkGreen,1973-01-12,Half time
+562,8008,Lamberto Morgagni,Maroon,1991-02-18,Half time
+563,1642,Ermes Tagliafierro,DarkGreen,1987-10-16,Half time
+564,19800,Fiamma Raurica,Maroon,2012-07-10,Half time
+565,20004,Bianca Ossani,Pink,1997-04-16,Half time
+566,21888,Antonia Malenchini,Pink,2018-11-07,Half time
+567,9370,Ezio Baracca,Pink,1999-04-21,Half time
+568,14742,Beppe Nadi,DarkGreen,1995-09-21,Half time
+569,10518,Romina Gulotta,DarkGreen,2007-09-10,Half time
+570,41495,Antonietta Pirandello-Oliboni,BlueViolet,2005-06-09,Half time
+571,11960,Azeglio Leblanc,Pink,2015-04-29,Half time
+572,44925,Pina Roth,FloralWhite,1999-08-09,Half time
+573,22140,Nicoletta Marazzi,FloralWhite,1990-03-18,Half time
+574,1018,Dott. Beppe Ritacca,Maroon,1991-04-14,Half time
+575,18747,Fedele Canali,BlueViolet,2018-05-30,Half time
+576,9804,Vincenza Mogherini,Maroon,2015-05-20,Half time
+577,2116,Alina Sismondi,BlueViolet,1970-03-28,Half time
+578,4696,Gianpaolo Spinola,Pink,1986-11-08,Half time
+579,9746,Gian Prodi,BlueViolet,1981-11-20,Half time
+580,4732,Sig.ra Roberta Saracino,FloralWhite,2004-12-08,Half time
+581,4959,Dott. Flavia Salandra,FloralWhite,1972-07-06,Half time
+582,5667,Dott. Eraldo Campanella,FloralWhite,1996-07-16,Half time
+583,22728,Carmelo Bazzi,FloralWhite,1998-07-20,Half time
+584,29460,Donna Lercari,BlueViolet,1996-07-11,Half time
+585,1372,Raffaella Brugnaro,BlueViolet,1970-03-19,Half time
+586,7552,Dionigi Colletti,Maroon,1986-10-11,Half time
+587,35536,Zaira Ferrazzi,DarkGreen,1992-05-18,Half time
+588,5929,Lucia Boiardo,FloralWhite,2007-03-16,Half time
+589,9654,Sig.ra Annunziata Puccini,FloralWhite,1996-04-09,Half time
+590,2888,Francesca Fagotto,Maroon,1981-09-17,Half time
+591,19192,Dott. Luigina Tosto,BlueViolet,1984-04-25,Half time
+592,9780,Fabrizio Fornaciari,FloralWhite,1987-09-21,Half time
+593,19497,Gianpaolo Parpinel-Vercelloni,DarkGreen,1979-09-09,Half time
+594,1056,Luisa Jacuzzi,DarkGreen,1987-01-22,Half time
+595,5856,Antonina Bembo-Perini,FloralWhite,1974-11-13,Half time
+596,14811,Sig.ra Luisa Cavalcanti,Maroon,1976-10-08,Half time
+597,32560,Giorgio Leonardi-Mondaini,Maroon,2002-12-10,Half time
+598,426,Annalisa Prati-Bertoni,Pink,1975-03-10,Half time
+599,3482,Dott. Nedda Gaggini,Pink,1983-06-07,Half time
+600,4420,Sig.ra Tina Ciani,BlueViolet,2020-05-26,Half time
+601,11858,Silvia Fioravanti,Maroon,1993-11-26,Half time
+602,9305,Pierluigi Raimondi,BlueViolet,1996-11-12,Half time
+603,3684,Gioachino Pausini,Pink,2014-09-20,Half time
+604,43075,Federica Trezzini-Barracco,Maroon,1971-10-04,Half time
+605,23632,Sig. Luca Casarin,FloralWhite,1983-10-29,Half time
+606,6,Sig.ra Vittoria Traetta,Maroon,2017-07-17,Half time
+607,11097,Loredana Falcone,DarkGreen,2011-08-25,Half time
+608,12565,Lucrezia Gabrieli,BlueViolet,2005-06-08,Half time
+609,26540,Stefano Granatelli,Maroon,2013-05-10,Half time
+610,1216,Francesca Nibali,BlueViolet,2000-11-26,Half time
+611,8844,Domenico Garrone,Maroon,2006-02-10,Half time
+612,26259,Carmelo Pergolesi,FloralWhite,2020-02-01,Half time
+613,17108,Mauro Corbo,FloralWhite,2017-02-10,Half time
+614,39904,Gastone Paruta,BlueViolet,1974-11-16,Half time
+615,7590,Arsenio Trapanese-Vergerio,Maroon,1998-06-30,Half time
+616,20349,Sandro Caccioppoli,Maroon,1982-08-25,Half time
+617,22914,Liliana Nordio-Pavone,Maroon,2006-04-29,Half time
+618,7696,Adele Caccioppoli,Maroon,1983-02-22,Half time
+619,6400,Anita Righi,FloralWhite,1987-11-04,Half time
+620,26276,Pierluigi Gabba-Romiti,Pink,1999-10-20,Half time
+621,7728,Dott. Amanda Cesarotti,BlueViolet,2008-01-22,Half time
+622,19128,Luisa Filippelli,Pink,2003-02-14,Half time
+623,17390,Priscilla Munari,DarkGreen,2013-08-24,Half time
+624,20504,Fabrizio Pennetta-Camilleri,DarkGreen,1979-10-06,Half time
+625,2040,Martino Piovani,Pink,1990-08-30,Half time
+626,32752,Melina Piccio,FloralWhite,2011-04-22,Half time
+627,2458,Dott. Licia Jilani,BlueViolet,1997-07-18,Half time
+628,4771,Monica Murri-Turati,DarkGreen,2002-07-13,Half time
+629,6188,Dario Doglioni,FloralWhite,2016-05-27,Half time
+630,7643,Napoleone Vigliotti,DarkGreen,2005-01-26,Half time
+631,21330,Arnaldo Pastine,Pink,2019-07-19,Half time
+632,2385,Tonia Bajardi,DarkGreen,2006-10-06,Half time
+633,182,Dott. Antonina Gangemi,Maroon,2007-10-06,Half time
+634,1190,Angelo Mondadori,FloralWhite,2017-07-30,Half time
+635,5124,Salvatore Marazzi,DarkGreen,1993-09-23,Half time
+636,10424,Dolores Broggini-Farina,Maroon,2016-03-05,Half time
+637,191,Sig. Tonino Leoncavallo,Pink,1994-12-21,Half time
+638,10002,Gianluca Scarpa,DarkGreen,1987-09-03,Half time
+639,14656,Veronica Cicilia,DarkGreen,1989-02-27,Half time
+640,44615,Luchino Montessori,DarkGreen,2004-01-20,Half time
+641,3018,Erika Marinetti-Deledda,Maroon,1998-12-24,Half time
+642,8539,Paride Mogherini-Onio,BlueViolet,2011-03-08,Half time
+643,7416,Sig.ra Luigina Serlupi,DarkGreen,1995-06-09,Half time
+644,7616,Gianna Storladi,FloralWhite,2017-06-01,Half time
+645,3007,Eraldo Gentileschi,BlueViolet,2010-08-06,Half time
+646,10740,Lodovico Jacuzzi-Coardi,BlueViolet,1974-05-18,Half time
+647,22137,Fortunata Pizzetti,BlueViolet,2014-07-23,Half time
+648,25552,Gabriele Mondaini,Maroon,2016-10-20,Half time
+649,8016,Emilio Giolitti,DarkGreen,2013-04-06,Half time
+650,28620,Amico Mozart-Antonioni,FloralWhite,2010-06-13,Half time
+651,36400,Camillo Boccioni,FloralWhite,1974-10-10,Half time
+652,6690,Michelangelo Comisso,DarkGreen,1988-10-14,Half time
+653,38475,Paulina Montecchi,Pink,2011-01-04,Half time
+654,49130,Sergius Barillaro-Mazzi,BlueViolet,1998-04-18,Half time
+655,8832,Chiara Bellò,DarkGreen,2004-02-04,Half time
+656,48775,Dott. Irma Pagliaro,Maroon,1999-06-17,Half time
+657,12888,Dott. Gaetano Callegaro,Maroon,1991-08-01,Half time
+658,11846,Ramona Agostini,FloralWhite,1996-05-07,Half time
+659,7266,Mattia Sinisi,BlueViolet,2005-02-21,Half time
+660,10359,Dario Sbarbaro-Regge,FloralWhite,1983-06-07,Half time
+661,6260,Sig. Michelotto Priuli,Maroon,2005-01-21,Half time
+662,17628,Lucrezia Cattaneo-Turchetta,BlueViolet,2002-09-04,Half time
+663,4529,Amalia Esposito,FloralWhite,2016-09-02,Half time
+664,565,Sig.ra Rosalia Bataglia,Pink,2021-06-18,Half time
+665,18944,Giustino Quasimodo,FloralWhite,1995-10-11,Half time
+666,2890,Uberto Bixio,Pink,1989-05-12,Half time
+667,2495,Maria Bixio-Bellò,Pink,2008-08-21,Half time
+668,43230,Sig. Paolo Marrone,BlueViolet,1977-09-21,Half time
+669,16962,Mariano Aloisio,DarkGreen,1971-08-10,Half time
+670,6317,Uberto Roccabonella,DarkGreen,1987-05-26,Half time
+671,5589,Gianfranco Tomasini,FloralWhite,1993-05-07,Half time
+672,37588,Gilberto Cignaroli,Pink,1995-07-19,Half time
+673,43440,Ugo Cundari,DarkGreen,1994-08-26,Half time
+674,11815,Chiara Volta,BlueViolet,2015-05-31,Half time
+675,24273,Fernanda Nitti,BlueViolet,1999-01-05,Half time
+676,5805,Gaetano Scamarcio,Maroon,2020-06-26,Half time
+677,16132,Paola Leone,Maroon,1971-05-18,Half time
+678,13340,Benito Micheletti,DarkGreen,1973-03-19,Half time
+679,39505,Fabia Fattori,Pink,2012-03-06,Half time
+680,7188,Tullio Cabrini-Barsanti,FloralWhite,1983-06-06,Half time
+681,2635,Fabio Caccianemico,Pink,2021-10-11,Half time
+682,2574,Sole Fantozzi,BlueViolet,2007-09-02,Half time
+683,17896,Martino Altera,FloralWhite,1988-11-27,Half time
+684,20288,Ronaldo Granatelli,FloralWhite,1999-12-17,Half time
+685,7317,Lazzaro Petralli,DarkGreen,1973-08-26,Half time
+686,646,Stefani Barracco,BlueViolet,1978-11-29,Half time
+687,26259,Maurilio Battelli,FloralWhite,2012-03-14,Half time
+688,26945,Annibale Gulotta,BlueViolet,1971-08-12,Half time
+689,8560,Martina Roccabonella,Pink,2004-07-21,Half time
+690,4676,Rosina Broggini,BlueViolet,2000-03-17,Half time
+691,32900,Arsenio Cimini-Balbi,BlueViolet,1994-09-29,Half time
+692,1816,Maurizio Ceschi,DarkGreen,2015-07-07,Half time
+693,24150,Fabrizio Ciani,BlueViolet,1971-06-23,Half time
+694,4454,Ruggiero Filippelli-Acerbi,DarkGreen,2003-11-10,Half time
+695,17348,Patrizio Casadei-Fo,BlueViolet,1981-07-24,Half time
+696,7650,Sebastiano Scarlatti,DarkGreen,1978-01-21,Half time
+697,20685,Giuliano Falier,FloralWhite,1999-04-01,Half time
+698,12865,Serena Curiel-Tosi,Maroon,2009-02-03,Half time
+699,1678,Donna Monteverdi-Luciani,BlueViolet,1985-05-15,Half time
+700,39650,Michele Gabrieli,FloralWhite,2019-12-12,Half time
+701,26334,Amedeo Treccani,Maroon,2016-05-01,Half time
+702,10166,Melissa Bompiani-Tutino,BlueViolet,2010-09-08,Half time
+703,19990,Enrico Cerutti-Fallaci,BlueViolet,1995-09-29,Half time
+704,2101,Diana Zacchia,BlueViolet,2008-08-17,Half time
+705,25435,Camilla Cerquiglini,BlueViolet,1977-12-19,Half time
+706,25050,Sig.ra Evangelista Treves,Pink,2013-02-17,Half time
+707,5000,Mercedes Malipiero,DarkGreen,2013-09-18,Half time
+708,5258,Romolo Gatto,Maroon,2014-02-19,Half time
+709,32940,Donatella Maderno,Pink,1982-10-05,Half time
+710,14462,Etta Petrucci-Pastine,DarkGreen,1989-09-15,Half time
+711,31200,Sig.ra Monica Venier,FloralWhite,1994-03-26,Half time
+712,24225,Romeo Dallapé,Pink,2017-07-24,Half time
+713,16480,Giampaolo Cimarosa,Maroon,2017-04-16,Half time
+714,18045,Paloma Roero,Maroon,1975-08-06,Half time
+715,34676,Federico Caironi,DarkGreen,2002-10-18,Half time
+716,6356,Sig.ra Rossana Righi,DarkGreen,1997-04-11,Half time
+717,15312,Ninetta Marenzio-Alfonsi,BlueViolet,1991-04-19,Half time
+718,24945,Pietro Almagià,FloralWhite,1996-07-30,Half time
+719,30568,Sig. Gionata Scarpetta,BlueViolet,1973-10-09,Half time
+720,5477,Marcello Aporti,Pink,1991-06-22,Half time
+721,21440,Paloma Ligorio,Maroon,2003-11-11,Half time
+722,29390,Alberto Pacillo,Maroon,2005-09-10,Half time
+723,4060,Sig. Alphons Gibilisco,DarkGreen,1979-02-09,Half time
+724,19524,Gastone Tassoni,BlueViolet,1980-04-28,Half time
+725,18640,Bianca Gargallo,DarkGreen,2003-01-08,Half time
+726,2832,Nanni Errani,DarkGreen,1976-08-05,Half time
+727,7575,Leonardo Storladi-Valguarnera,Maroon,1971-03-13,Half time
+728,2320,Venancio Manzoni-Ginesio,Maroon,2000-09-29,Half time
+729,6806,Patrizio Ritacca,Pink,2002-08-04,Half time
+730,9537,Sole Rinaldi,DarkGreen,2016-11-22,Half time
+731,1685,Salvatore Toninelli,FloralWhite,1997-11-14,Half time
+732,27498,Pier Panatta-Tutino,BlueViolet,1988-03-05,Half time
+733,19072,Alderano Brambilla,DarkGreen,1995-01-25,Half time
+734,3704,Sig.ra Stella Ammaniti,BlueViolet,2010-03-28,Half time
+735,32036,Lilla Cappelli,FloralWhite,1972-03-18,Half time
+736,504,Goffredo Golino,BlueViolet,1973-12-16,Half time
+737,10521,Giovanni Pasqua,BlueViolet,2006-05-14,Half time
+738,18840,Pietro Comencini,Pink,1992-06-18,Half time
+739,6302,Sig. Luca Campise,DarkGreen,2016-09-26,Half time
+740,27567,Sig.ra Maria Napolitano,Pink,2002-12-31,Half time
+741,13904,Dott. Berenice Balbo,BlueViolet,1985-12-04,Half time
+742,6306,Sandro Taliani,BlueViolet,1971-01-05,Half time
+743,2982,Bruno Armani,FloralWhite,1975-10-06,Half time
+744,2845,Isa Zecchini,Maroon,1993-05-05,Half time
+745,19750,Dott. Isa Tomasetti,Maroon,1970-05-13,Half time
+746,426,Dott. Liberto Pascarella,BlueViolet,2021-05-29,Half time
+747,13545,Romana Aulenti,DarkGreen,2019-11-10,Half time
+748,19930,Goffredo Chigi-Gualtieri,Maroon,2012-09-16,Half time
+749,17482,Azeglio Raimondi,BlueViolet,2015-06-05,Half time
+750,15342,Giuseppe Rocca,Pink,2000-05-08,Half time
+751,29320,Gioele Prati,BlueViolet,2009-07-27,Half time
+752,19580,Rosario Metella,Pink,2015-08-11,Half time
+753,33840,Gabriele Tomasini,DarkGreen,1995-09-25,Half time
+754,20424,Elena Tremonti,Pink,1980-08-20,Half time
+755,17428,Dino Ficino-Marinetti,FloralWhite,2016-11-23,Half time
+756,4359,Laura Garozzo,DarkGreen,2013-02-20,Half time
+757,24910,Dott. Dina Spallanzani,FloralWhite,1981-03-26,Half time
+758,105,Cassandra Calbo,Pink,1989-06-21,Half time
+759,3132,Pierangelo Foscari,Maroon,1994-12-08,Half time
+760,36440,Victoria Cappelli,FloralWhite,2017-11-07,Half time
+761,8960,Federico Stein-Inzaghi,BlueViolet,2003-01-05,Half time
+762,35696,Fiamma Sauli,Maroon,1986-10-21,Half time
+763,14230,Lara Vigliotti-Brichese,Pink,2020-05-17,Half time
+764,22916,Giampaolo Lettiere,BlueViolet,2010-03-15,Half time
+765,3465,Osvaldo Sommaruga,Pink,1987-12-08,Half time
+766,19488,Martina Ritacca,BlueViolet,1978-03-31,Half time
+767,19364,Rolando Sobrero,FloralWhite,1981-05-14,Half time
+768,5508,Dott. Evangelista Puccini,Maroon,2001-09-25,Half time
+769,2995,Valentina Nugnes,FloralWhite,2008-07-18,Half time
+770,4295,Greca Quasimodo,DarkGreen,1984-02-06,Half time
+771,5728,Marcello Vercelloni-Salgari,Pink,2022-02-07,Half time
+772,16126,Lolita Turchi,Pink,1973-08-17,Half time
+773,11493,Federica Riccardi,BlueViolet,1975-08-12,Half time
+774,20892,Sig. Martino Panzera,DarkGreen,1980-08-29,Half time
+775,7188,Paoletta Gemito,Pink,1992-08-08,Half time
+776,28170,Paulina Seddio,DarkGreen,1986-05-15,Half time
+777,16710,Oreste Rocca,FloralWhite,2017-09-29,Half time
+778,4392,Teresa Cuomo,FloralWhite,2012-09-09,Half time
+779,7412,Beatrice Pisano,DarkGreen,2018-05-12,Half time
+780,1909,Coluccio Bondumier,Pink,1974-02-11,Half time
+781,33930,Cecilia Stoppani-Pascarella,DarkGreen,1971-04-10,Half time
+782,28872,Sabatino Cipolla,Maroon,2019-09-16,Half time
+783,42605,Nicola Condoleo-Renier,Pink,2006-07-07,Half time
+784,2392,Letizia Govoni,FloralWhite,1988-10-07,Half time
+785,43545,Concetta Solari-Panatta,Maroon,1983-05-04,Half time
+786,4324,Sig.ra Annetta Murialdo,Pink,1978-02-17,Half time
+787,7059,Greco Cilibrasi,DarkGreen,1971-09-22,Half time
+788,20847,Federica Modigliani,Maroon,1998-01-31,Half time
+789,6922,Vincentio Giacconi,FloralWhite,2003-06-16,Half time
+790,18774,Mirko Mazzacurati,FloralWhite,1972-09-24,Half time
+791,10518,Gabriella Veneziano,FloralWhite,1973-06-19,Half time
+792,12360,Gioele Guarato,Pink,2014-03-14,Half time
+793,16242,Augusto Fabrizi,FloralWhite,2014-10-06,Half time
+794,39768,Laura Paganini,FloralWhite,1974-01-31,Half time
+795,16461,Giulia Nonis,Pink,2019-03-28,Half time
+796,42100,Sig. Ernesto Blasi,DarkGreen,1997-12-26,Half time
+797,25024,Eva Squarcione,DarkGreen,2006-05-20,Half time
+798,21972,Loredana Leopardi-Colletti,BlueViolet,1970-12-16,Half time
+799,3636,Stefano Scaramucci-Rossetti,FloralWhite,1990-08-30,Half time
+800,12972,Ornella Verga,BlueViolet,1977-10-05,Half time
+801,3684,Dott. Ettore Martucci,Maroon,2010-01-26,Half time
+802,18705,Griselda Curatoli-Valguarnera,DarkGreen,1991-12-02,Half time
+803,740,Gabriele Guarana,Maroon,1974-07-20,Half time
+804,35530,Saverio Desio,Pink,1992-08-30,Half time
+805,14892,Mirko Dovara,BlueViolet,1987-04-02,Half time
+806,21644,Pietro Dulbecco-Barracco,DarkGreen,1989-05-05,Half time
+807,980,Etta Branciforte,DarkGreen,1998-02-21,Half time
+808,13812,Adriana Gentileschi,Maroon,2000-07-11,Half time
+809,16178,Dott. Paola Trincavelli,BlueViolet,1982-06-22,Half time
+810,29664,Aurora Argento,BlueViolet,2014-02-08,Half time
+811,9572,Pompeo Schiavo,Maroon,1993-01-29,Half time
+812,26105,Dott. Monica Tanzini,BlueViolet,2001-12-10,Half time
+813,1268,Lina Rossi,Maroon,1985-09-29,Half time
+814,7390,Sig.ra Marcella Modugno,Maroon,2009-06-08,Half time
+815,15030,Livia Abba,FloralWhite,2021-11-11,Half time
+816,26160,Gelsomina Zanzi,Pink,2002-09-06,Half time
+817,8363,Lucio Rizzo,Maroon,1986-12-04,Half time
+818,84,Sig. Carmelo Rossi,Maroon,2016-10-23,Half time
+819,16530,Coriolano Stoppani-Cassarà,Maroon,1975-04-21,Half time
+820,38540,Delfino Callegari,BlueViolet,2004-01-08,Half time
+821,5145,Sig. Alessandro Fracci,Maroon,2003-10-07,Half time
+822,10608,Ezio Cilea,BlueViolet,1971-01-20,Half time
+823,12846,Vincenza Mimun,FloralWhite,1981-06-25,Half time
+824,7942,Fiorino Parisi,Pink,1971-06-06,Half time
+825,7207,Dott. Monica Maderno,BlueViolet,2004-12-15,Half time
+826,8110,Isabella Borroni,Maroon,1989-09-01,Half time
+827,28000,Melania Faggiani,DarkGreen,2015-03-08,Half time
+828,13022,Elena Pagnotto,DarkGreen,2002-11-02,Half time
+829,34315,Raffaello Gabbana,DarkGreen,1984-05-04,Half time
+830,20064,Galasso Baroffio,FloralWhite,1990-12-14,Half time
+831,9433,Lauretta Venier,BlueViolet,2004-12-04,Half time
+832,26472,Bettina Basso,Maroon,2006-12-31,Half time
+833,1892,Gaspare Fittipaldi,FloralWhite,2009-07-04,Part time
+834,3345,Zaira Solimena,Maroon,1984-03-15,Part time
+835,10956,Daria Tacchini,DarkGreen,2022-08-18,Part time
+836,11010,Donatella Buonauro,BlueViolet,2000-09-23,Part time
+837,17285,Sig.ra Virginia Santorio,Maroon,1982-12-09,Part time
+838,1046,Carmelo Badoglio,Maroon,2010-02-08,Part time
+839,30936,Erika Montalti-Beccheria,BlueViolet,1990-08-08,Part time
+840,27906,Girolamo Gagliardi,FloralWhite,1978-08-23,Part time
+841,17350,Damiano Platini,BlueViolet,2019-08-18,Part time
+842,18902,Annunziata Gatto,FloralWhite,1976-10-26,Part time
+843,1320,Valerio Bataglia,Pink,1992-03-02,Part time
+844,27255,Luchino Leonardi,Pink,1978-05-19,Part time
+845,19494,Ruggero Grasso,BlueViolet,2006-05-10,Part time
+846,4990,Berenice Agostini,DarkGreen,1984-02-21,Part time
+847,23604,Fiorino Ricolfi-Cuda,DarkGreen,1973-10-17,Part time
+848,5148,Sig.ra Luigina Ammaniti,Maroon,1987-12-07,Part time
+849,14838,Lucrezia Giunti,Maroon,2013-02-04,Part time
+850,16506,Michelangelo Albertini,DarkGreen,1983-11-09,Part time
+851,31992,Aria Venturi-Fiorucci,Maroon,2004-03-27,Part time
+852,6616,Imelda Modigliani,FloralWhite,1974-12-11,Part time
+853,19194,Pompeo Mocenigo-Morabito,FloralWhite,1986-09-27,Part time
+854,26340,Fabrizia Alighieri-Doria,Maroon,1973-05-18,Part time
+855,10458,Dott. Antonino Grisoni,Pink,2008-06-07,Part time
+856,3237,Stella Calgari,Pink,2021-01-29,Part time
+857,8808,Dott. Liberto Paolucci,Maroon,2002-04-21,Part time
+858,12612,Rita Rastelli,Pink,2014-09-10,Part time
+859,11440,Iolanda Guicciardini,Pink,2000-11-13,Part time
+860,23340,Dionigi Guidotti,FloralWhite,2013-06-14,Part time
+861,15170,Alessio Medici,DarkGreen,1983-05-17,Part time
+862,26064,Sante Odescalchi,Pink,1992-04-01,Part time
+863,14652,Silvio Valguarnera,Maroon,1983-03-06,Part time
+864,23967,Susanna Lancisi,BlueViolet,2004-04-20,Part time
+865,24752,Maura Marino,DarkGreen,1991-09-09,Part time
+866,2835,Lando Scotto,Pink,2010-10-25,Part time
+867,29985,Jolanda Sonnino-Venturi,Pink,1986-03-21,Part time
+868,84,Franco Nugnes,Maroon,1985-06-10,Part time
+869,1280,Vittoria Bajamonti,Maroon,2022-06-14,Part time
+870,5818,Pompeo Trapanese,Pink,1972-11-14,Part time
+871,8998,Gianmarco Monduzzi,FloralWhite,1979-11-29,Part time
+872,1952,Leopoldo Romagnoli-Cabibbo,DarkGreen,1979-08-24,Part time
+873,17894,Goffredo Badoglio,BlueViolet,2012-03-22,Part time
+874,6507,Sig. Pietro Bonomo,DarkGreen,1996-07-20,Part time
+875,2508,Ida Berrè,FloralWhite,2003-10-05,Part time
+876,189,Agnolo Canil,Maroon,2010-06-30,Part time
+877,8040,Coriolano Contarini,Pink,1981-05-03,Part time
+878,15932,Michela Pizzo,Pink,1986-12-18,Part time
+879,3732,Alderano Naccari,BlueViolet,1971-02-10,Part time
+880,33796,Ruggiero Lamborghini,Pink,1982-02-20,Part time
+881,7010,Nina Mastandrea,FloralWhite,1990-04-22,Part time
+882,12804,Flavia Conti,Pink,1986-08-16,Part time
+883,2971,Nino Mascagni-Malaparte,DarkGreen,1996-01-22,Part time
+884,741,Cassandra Natta,Maroon,2019-01-08,Part time
+885,21100,Sig. Claudio Moresi,Pink,1990-02-06,Part time
+886,16258,Cecilia Semitecolo,DarkGreen,2013-10-15,Part time
+887,2620,Alfio Montanariello-Mondadori,FloralWhite,1984-10-26,Part time
+888,8752,Gilberto Ortese,BlueViolet,1986-04-14,Part time
+889,35935,Sig.ra Dina Bova,DarkGreen,1989-02-15,Part time
+890,845,Patrizia Lupo,Pink,2012-02-25,Part time
+891,19516,Eva Pulci,FloralWhite,1973-04-18,Part time
+892,18738,Michele Sabbatini,Pink,1980-01-10,Part time
+893,4869,Bettina Spinelli,BlueViolet,1999-08-27,Part time
+894,11715,Michelotto Castellitto,Pink,2015-03-06,Part time
+895,204,Ignazio Alfonsi,Maroon,1981-01-04,Part time
+896,19045,Panfilo Gregorio,BlueViolet,2008-05-20,Part time
+897,11665,Enzio Benussi,Pink,1983-04-26,Part time
+898,12344,Giacobbe Branciforte,Pink,1975-08-30,Part time
+899,2107,Ida Verri,BlueViolet,1984-07-27,Part time
+900,6780,Saverio Nugnes-Mantegazza,BlueViolet,2006-09-02,Part time
+901,4530,Loredana Barcaccia-Gualtieri,Pink,2009-03-08,Part time
+902,8932,Sole Vattimo,Pink,2005-03-16,Part time
+903,3852,Ottone Parmitano-Collina,BlueViolet,2016-01-20,Part time
+904,15916,Dott. Nicoletta Ricci,DarkGreen,1998-02-15,Part time
+905,6927,Sandra Cagnotto,BlueViolet,1980-03-03,Part time
+906,25266,Francesco Luxardo,BlueViolet,1995-10-10,Part time
+907,7603,Sig.ra Sonia Benussi,Maroon,2004-01-16,Part time
+908,12384,Marta Soranzo,FloralWhite,1997-11-27,Part time
+909,2127,Lucio Ferrucci,BlueViolet,1995-03-11,Part time
+910,8343,Lodovico Callegari,BlueViolet,2009-12-11,Part time
+911,2988,Sig. Pasqual Alighieri,FloralWhite,2011-03-27,Part time
+912,27305,Ermes Pennetta-Parini,BlueViolet,1971-02-06,Part time
+913,6777,Giulio Bosurgi,BlueViolet,2004-01-16,Part time
+914,19852,Elisa Garrone-Odescalchi,DarkGreen,2009-06-10,Part time
+915,49540,Luigi Campano,Pink,1976-01-13,Part time
+916,7893,Orazio Procacci,FloralWhite,1996-08-22,Part time
+917,17062,Livia Montesano-Bettin,FloralWhite,2008-05-02,Part time
+918,5696,Luigina Finzi-Bossi,DarkGreen,1996-06-26,Part time
+919,16285,Filippa Verdone,FloralWhite,1999-03-20,Part time
+920,4437,Gustavo Palumbo,Pink,2010-04-14,Part time
+921,25120,Sig.ra Morena Dossi,FloralWhite,1994-12-04,Part time
+922,13125,Daria Cocci,BlueViolet,1992-05-23,Part time
+923,9214,Sonia Zeffirelli,FloralWhite,1987-09-30,Part time
+924,36925,Maurizio Crisafulli,Maroon,1998-06-10,Part time
+925,16626,Dott. Claudia Jilani,BlueViolet,1993-08-07,Part time
+926,25074,Gabriele Tartini-Martinelli,BlueViolet,1993-12-08,Part time
+927,30336,Daria Cignaroli,DarkGreen,1985-05-29,Part time
+928,26610,Melissa Poerio,FloralWhite,2007-05-06,Part time
+929,25968,Nicola Serao,Pink,1993-05-08,Part time
+930,6985,Sig. Mirko Zaccardo,BlueViolet,1993-07-07,Part time
+931,11340,Dott. Sandra Ruggieri,FloralWhite,1992-05-23,Part time
+932,47745,Silvestro Antonini-Marsili,DarkGreen,1993-11-03,Part time
+933,5513,Dott. Pier Innocenti,FloralWhite,1986-09-08,Part time
+934,5446,Mirko Paruta-Praga,Pink,2014-01-02,Part time
+935,1920,Laura Paolucci,DarkGreen,1982-08-27,Part time
+936,41365,Ilaria Spinelli,DarkGreen,2013-03-21,Part time
+937,8116,Ernesto Casellati,DarkGreen,1985-01-25,Part time
+938,11820,Costantino Canali-Bacosi,Pink,1978-03-17,Part time
+939,1542,Fabia Monteverdi,Maroon,2010-02-02,Part time
+940,16228,Silvestro Petruzzi,DarkGreen,1971-03-28,Part time
+941,12450,Sig.ra Gemma Valier,DarkGreen,2022-01-21,Part time
+942,8664,Sig.ra Viridiana Chindamo,Pink,2006-10-24,Part time
+943,4209,Giancarlo Nosiglia,FloralWhite,1985-02-21,Part time
+944,14172,Raffaella Detti,FloralWhite,1985-09-30,Part time
+945,15168,Fabio Casellati,Maroon,1976-05-08,Part time
+946,7328,Clelia Giannuzzi-Spinelli,Pink,2010-08-13,Part time
+947,27232,Michele Monduzzi,DarkGreen,2000-05-16,Part time
+948,14326,Sig.ra Ludovica Bataglia,Maroon,1997-09-10,Part time
+949,20808,Dott. Giosuè Pacillo,FloralWhite,2022-06-16,Part time
+950,2202,Tonia Berengario,Maroon,2007-12-15,Part time
+951,30392,Sig. Sante Trapani,BlueViolet,1986-07-02,Part time
+952,18232,Amadeo Fagiani,DarkGreen,2007-03-09,Part time
+953,8290,Orlando Calvo,Pink,2006-07-25,Part time
+954,1575,Maurilio Pietrangeli,Maroon,1988-05-11,Part time
+955,1792,Geronimo Gentileschi-Manacorda,DarkGreen,2007-10-27,Part time
+956,21520,Rita Sagnelli,BlueViolet,1974-06-26,Part time
+957,6500,Mercedes Perini-Petrassi,DarkGreen,2013-06-08,Part time
+958,9707,Beatrice Modugno-Ossola,BlueViolet,2014-10-07,Part time
+959,6468,Ivan Serao,DarkGreen,1970-06-10,Part time
+960,864,Rembrandt Travaglio,BlueViolet,1977-08-07,Part time
+961,6252,Sig.ra Tonia Fantozzi,Maroon,1998-12-26,Part time
+962,39684,Niccolò Cendron,DarkGreen,2012-06-28,Part time
+963,43685,Valentina Lerner,Pink,2015-12-11,Part time
+964,27222,Sig.ra Pierina Gagliardi,BlueViolet,2019-11-09,Part time
+965,1979,Massimo Piane,Maroon,1979-08-18,Part time
+966,2994,Ugo Cardano,Maroon,1984-04-23,Part time
+967,6967,Michela Longhena,Pink,1994-02-23,Part time
+968,3135,Ettore Lovato,BlueViolet,2003-09-09,Part time
+969,22305,Antonietta Einaudi,Pink,2014-06-17,Part time
+970,12100,Serafina Borgia,Pink,2022-02-09,Part time
+971,41680,Antonello Vivaldi,Maroon,1997-06-28,Part time
+972,9592,Victoria Mortati,Maroon,2018-07-20,Part time
+973,33665,Rembrandt Gottardi,BlueViolet,1996-09-24,Part time
+974,18836,Sig. Greco Antonetti,Maroon,2017-12-29,Part time
+975,44485,Dott. Gianluigi Manzoni,FloralWhite,1993-08-30,Part time
+976,11375,Romana Natta,Maroon,1983-08-07,Part time
+977,17457,Dott. Ninetta Scialpi,DarkGreen,1989-12-22,Part time
+978,8664,Piergiuseppe Gozzi,BlueViolet,1971-04-23,Part time
+979,276,Sig. Enzo Cibin,DarkGreen,2002-03-05,Part time
+980,8804,Berenice Nicoletti,FloralWhite,2020-09-05,Part time
+981,7365,Dott. Luisa Foletti,FloralWhite,1974-02-17,Part time
+982,9380,Giuseppina Babbo,BlueViolet,1981-03-17,Part time
+983,23223,Priscilla Verdone,FloralWhite,2005-05-21,Part time
+984,5643,Mauro Storladi,Maroon,2014-08-19,Part time
+985,10328,Guglielmo Ricciardi,FloralWhite,2019-09-06,Part time
+986,37000,Stefania Anguillara,DarkGreen,1978-07-24,Part time
+987,14208,Alessio Paoletti,Pink,2014-04-08,Part time
+988,24340,Bianca Vecellio,DarkGreen,1993-02-16,Part time
+989,1378,Gino Paganini,Pink,2014-10-12,Part time
+990,19372,Paola Toscanini,BlueViolet,1995-11-19,Part time
+991,6758,Adamo Accardo,Maroon,1993-11-12,Part time
+992,5050,Serafina Toscani-Gozzano,BlueViolet,2008-04-17,Part time
+993,45780,Bianca Filzi,BlueViolet,1989-11-20,Part time
+994,4509,Ignazio Pometta,DarkGreen,1984-11-16,Part time
+995,33704,Margherita Draghi,FloralWhite,1983-07-29,Part time
+996,2608,Gianpietro Goldstein,BlueViolet,2021-08-03,Part time
+997,17080,Ernesto Galuppi-Tacchini,FloralWhite,1997-10-27,Part time
+998,29488,Vincenza Battelli,Pink,1985-01-10,Part time
+999,20835,Luigina Oliboni-Antonacci,BlueViolet,1976-06-23,Part time
